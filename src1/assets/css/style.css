@@ -55,7 +55,7 @@ img.imageLogo{
   height:600px;
   padding: 0px;
   text-align: center;
-  background-image: linear-gradient(rgba(256, 256, 256, 0.78), rgba(256, 256, 256, 0.78)),url(../images/services/background.jpg); 
+  background-image: linear-gradient(rgba(256, 256, 256, 0.78), rgba(256, 256, 256, 0.78)),url(../images/Services/background.jpg); 
   
 	background-size:cover; 
  
