@@ -80,7 +80,7 @@
         <div style="padding-top:19%;">
 			<h1>Bumper Replacement</h1>
 			<h2>Urgent Care Bumper Repair brings 20 years of experience in the field, and guarantees the best possible results when replacing the bumper on your car. You will think it came out of the factory like that!</h2>
-			<a href="views/bumperreplacement/index.php" class="btn route mb-5" id="view-work">
+			<a href="views/bumperreplacement/index.php" class="btn route mb-5">
 				Check Out Our Gallery Of Work!
 			</a>
 		</div>
