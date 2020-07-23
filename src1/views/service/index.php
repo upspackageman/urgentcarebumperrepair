@@ -76,20 +76,20 @@
 	  <div id="header">
         <h2>Process</h2>
       </div>
-	  <!--div class="caption"style="background-image:url(assets/images/Services/bodykit.jpg); ">
+	  <div class="caption"style="background-image:url(assets/images/Services/bodykit.jpg); ">
         <div style="padding-top:19%;">
-			<h1>Body Kit</h1>
-			<h2>Urgent Care Bumper Repair brings almost 10 years of experience in the field, and guarantees the best possible results when installing body kits in your car. You will think it came out of the factory like that!</h2>
-			<a href="#!/bodykit" class="btn" id="view-work">
+			<h1>Bumper Replacement</h1>
+			<h2>Urgent Care Bumper Repair brings 20 years of experience in the field, and guarantees the best possible results when replacing the bumper on your car. You will think it came out of the factory like that!</h2>
+			<a href="views/bumperreplacement/index.php" class="btn route" id="view-work">
 				Check Out Our Gallery Of Work!
 			</a>
 		</div>
-      </div-->
-	  <!--img src="https://source.unsplash.com/1600x900/?nature,clouds" alt=""-->
-	  <!--div id="header">
-        <h2>Body Kit<h2>
       </div>
-	  <div class="caption"style="background-image:url(assets/images/Services/restoration.jpg); ">
+	  <!--img src="https://source.unsplash.com/1600x900/?nature,clouds" alt=""-->
+	  <div id="header">
+        <h2>Bumper Replacement<h2>
+      </div>
+	  <!--div class="caption"style="background-image:url(assets/images/Services/restoration.jpg); ">
         <div style="padding-top:19%;">
 			<h1>Restoration</h1>
 			<h2>It takes true artisan talent, craftsmanship and a respect for history to restore a sentimental classic car to its original beauty.</h2>
@@ -97,7 +97,7 @@
 				Check Out Our Gallery Of Work!
 			</a>
 		</div>
-      </div>
+      </div-->
 	  <!--img src="https://source.unsplash.com/1600x900/?nature,clouds" alt=""-->
 	  <!--div id="header">
         <h2>Restoration</h2>
