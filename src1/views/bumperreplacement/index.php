@@ -5,9 +5,9 @@
 </head>
 <main>
     <!-- Landing Area -->
-    <div class="captionBumperreplacement" style="background-color:rgb(0,0,0); margin-top: -10%">
-      <div class="landing-text">
-        <div class="landing-text-inner">
+    <div class="captionBumperreplacement" style="background-color:rgb(0,0,0);">
+      <div class="bumper-landing-text">
+        <div class="bumper-landing-text-inner">
           <h1 class="title">Bumper Replacement</h1>
           <h2></h2>
           <a href="#bumperreplacement" class="btn mb-5" id="view-work">
