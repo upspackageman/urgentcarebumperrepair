@@ -110,6 +110,22 @@ img.imageLogo{
 	animation-iteration-count: infinite;
 	 
  }
+
+ .captionBumperreplacement {
+   
+  height:600px;
+  text-align: center;
+  vertical-align: text-top;
+   background-image:url("../images/Import images/2020-04-29/car/166.jpg");
+  background-repeat: no-repeat;background-size: 100% 100%;
+  text-shadow: 8px 8px 6px #000;
+  
+   
+  animation: fill-images 30s;
+  transition: background-image 1s ease-in-out;
+  animation-iteration-count: infinite;
+   
+ }
  
  .captionInsuranceHeader {
 	 
@@ -649,7 +665,24 @@ h1.title{
 	animation: fill-images 60s;
 	animation-iteration-count: infinite;
  }
- 
+
+.captionBumperreplacement {
+   
+  height:700px;
+  text-align: center;
+  vertical-align: text-top;
+   background-image:url("../images/Import images/2020-04-29/car/166.jpg");
+  background-size: cover;
+  text-shadow: 8px 8px 6px #000;
+  
+   
+  -webkit-animation: fill-images 60s;
+  -moz-animation:fill-images 60s;
+  animation: fill-images 60s;
+  animation-iteration-count: infinite;
+ }
+
+
  .captionServiceHeader {
 	 
 	height:400px;

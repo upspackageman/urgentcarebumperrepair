@@ -5,7 +5,7 @@
 </head>
 <main>
     <!-- Landing Area -->
-    <div class="captionHeader" style="background-color:rgb(0,0,0)">
+    <div class="captionBumperreplacement" style="background-color:rgb(0,0,0)">
       <div class="landing-text">
         <div class="landing-text-inner">
           <h1 class="title">Bumper Replacement</h1>
