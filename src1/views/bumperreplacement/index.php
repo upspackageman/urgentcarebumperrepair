@@ -6,8 +6,8 @@
 <main>
     <!-- Landing Area -->
     <div class="captionBumperreplacement" style="background-color:rgb(0,0,0);">
-      <div class="bumper-landing-text">
-        <div class="bumper-landing-text-inner">
+      <div class="bumperreplace-landing-text">
+        <div class="bumperreplace-landing-text-inner">
           <h1 class="title">Bumper Replacement</h1>
           <h2></h2>
           <a href="#bumperreplacement" class="btn mb-5" id="view-work">

@@ -668,11 +668,11 @@ h1.title{
 
 .captionBumperreplacement {
    
-  height:600px;
+  height:400px;
   text-align: center;
   vertical-align: text-top;
    background-image:url("../images/Import images/2020-04-29/car/166.jpg");
-  background-size: cover;
+  background-repeat: no-repeat;background-size: 100% 100%;
   text-shadow: 8px 8px 6px #000;
   
    
@@ -685,7 +685,7 @@ h1.title{
 
  .captionServiceHeader {
 	 
-	height:600px;
+	height:400px;
 	text-align: center;
 	vertical-align: text-top;
 	 background-image:url("../images/Import images/2020-04-29/car/166.jpg");
@@ -736,6 +736,14 @@ h1.title{
  
  .bumper-landing-text{
 	padding-top:40%;
+}
+
+.bumperreplace-landing-text{
+  padding-top:0%;
+}
+
+.bumperreplace-landing-text-inner{
+  padding-bottom:64%;
 }
  
  .process-landing-text{
