@@ -5,12 +5,12 @@
 </head>
 <main>
     <!-- Landing Area -->
-    <div class="captionBumperreplacement" style="background-color:rgb(0,0,0)">
+    <div class="captionBumperreplacement mt-5" style="background-color:rgb(0,0,0)">
       <div class="landing-text">
         <div class="landing-text-inner">
           <h1 class="title">Bumper Replacement</h1>
           <h2></h2>
-          <a href="#bumperreplacement" class="btn" id="view-work">
+          <a href="#bumperreplacement" class="btn mb-5" id="view-work">
             View Work
           </a>
         </div>
