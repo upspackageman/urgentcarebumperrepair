@@ -49,7 +49,7 @@
 		  <!--div class="captionHeaderText">
 			<div class="landing-text-inner">
 			  <h1 class="title">Urgent Care</h1>
-			  <h2>Bumper Repair</h2>
+			  <h2>Bumper  Repair</h2>
 			  <a href="views/service/index.php" class="btn route" id="view-work">
 				View Services
 			  </a>
@@ -64,7 +64,7 @@
 			<h2>Testimonials</h2>
 		  </div>
 	
-		  <!--img src="https://source.unsplash.com/1600x900/?nature,water" alt=""-->
+		  <!--img src="https://source.unsplash.com/1600x900/?nature,water" alt=" "-->
 	  <div class="caption" style="background-image:linear-gradient(rgba(256, 256, 256, 0.78), rgba(256, 256, 256, 0.78)),url(assets/images/Services/background.jpg); background-size:cover; height:500px;">
 		<div class="swiper-container lexus1  ml-3 mr-3">
 		  <div class="swiper-wrapper mt-5">  
