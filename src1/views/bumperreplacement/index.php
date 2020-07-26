@@ -36,13 +36,13 @@
 				  <img src="assets/images/Import images/2020-04-29/car3/186.jpg" class="captionImages"   alt="...">
 				</div>
 				<div class="swiper-slide">
-				  <img src="assets/images/Import images/2020-04-29/car3/187.jpg" class="captionImages"   alt="...">
-				</div>
-				<div class="swiper-slide">
 				  <img src="assets/images/Import images/2020-04-29/car3/189.jpg" class="captionImages"  alt="...">
 				</div>
 				<div class="swiper-slide">
 				  <img src="assets/images/Import images/2020-04-29/car3/188.jpg" class="captionImages"  alt="...">
+				</div>
+				<div class="swiper-slide">
+				  <img src="assets/images/Import images/2020-04-29/car3/187.jpg" class="captionImages"   alt="...">
 				</div>
 				<div class="swiper-slide">
 				  <img src="assets/images/Import images/2020-04-29/car3/190.jpg" class="captionImages"  alt="...">
