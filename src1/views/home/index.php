@@ -8,15 +8,15 @@
 		<div class="swiper-container lexus1 mt-5 ml-3 mr-3">
 				<div class="swiper-wrapper">
 					<div class="swiper-slide" >
-			  <div class="captionHeaderText">
-				<div class="landing-text-inner" style="text-shadow: 8px 8px 6px #000;">
-				  <h1 class="title">Urgent Care Bumper Repair</h1>
-				  <h2>We specialize in mobile bumper repair and bumper replacements or in house. all auto makes and models. We can come to you or you can come to us. Free estimates. We also provide complete collision service and accept all insurance carriers. 20 years of experience. Owner operated. Free shuttle service for drop off repairs in the North County area. -Lifetime warranty on all repairs-</h2>
-				  <a href="views/service/index.php" class="btn route" >
-					View Services
-				  </a>
-				</div>
-			  </div>
+			  
+          <div class="landing-text-inner" style="text-shadow: 8px 8px 6px #000;">
+            <h1 class="title">Urgent Care Bumper Repair</h1>
+            <h2>We specialize in mobile bumper repair and bumper replacements or in house. all auto makes and models. We can come to you or you can come to us. Free estimates. We also provide complete collision service and accept all insurance carriers. 20 years of experience. Owner operated. Free shuttle service for drop off repairs in the North County area. -Lifetime warranty on all repairs-</h2>
+            <a href="views/service/index.php" class="btn route" >
+            View Services
+            </a>
+          </div>
+			  
 			</div>
 					<div class="swiper-slide" >
 			  <div>

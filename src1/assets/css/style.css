@@ -646,15 +646,12 @@ h1.title{
  
  .captionHeader {
 	 
-	
-	
 	 
-	height:400px;
+	height:500px;
 	text-align: center; 
-	background-repeat: no-repeat;
-	background-size: 100% 100%;
 	transition: background-image 1s ease-in-out;
-	background-image:-webkit-linear-gradient(rgba(0, 0, 0, 0.20), rgba(0, 0, 0, 0.20)),url("../images/Import images/2020-04-29/car/166.jpg");
+  background-image:-webkit-linear-gradient(rgba(0, 0, 0, 0.20), rgba(0, 0, 0, 0.20)),url("../images/Import images/2020-04-29/car/166.jpg");
+  background-size: cover;
 	-webkit-animation: fill-images 60s;
 	-moz-animation:fill-images 60s;
 	animation: fill-images 60s;
