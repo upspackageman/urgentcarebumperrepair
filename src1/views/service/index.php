@@ -63,7 +63,7 @@
         <h2>Insurance Claims</h2>
       </div>
      
-      <div class="caption"style="background-image: url(assets/images/Services/process.jpg); background-repeat: no-repeat;  background-size: 100% 100%; text-shadow: 8px 8px 6px #000;">
+      <div class="caption"style="background-image: url('assets/images/Import images/2020-04-29/process/10.jpg'); background-repeat: no-repeat;  background-size: 100% 100%; text-shadow: 8px 8px 6px #000;">
         <div style="padding-top:19%;">
 			<h1>Process</h1>
 			<h2>Your satisfaction is guaranteed by a lifetime warranty (as long as you own the car).</h2>
@@ -76,7 +76,7 @@
 	  <div id="header">
         <h2>Process</h2>
       </div>
-	  <div class="caption" style="background-image:url(assets/images/Services/bodykit.jpg); background-repeat: no-repeat;background-size: 100% 100%; text-shadow: 8px 8px 6px #000;">
+	  <div class="caption" style="background-image:url('assets/images/Import images/2020-04-29/car3/190.jpg'); background-repeat: no-repeat;background-size: 100% 100%; text-shadow: 8px 8px 6px #000;">
         <div style="padding-top:13%;">
 			<h1>Bumper Replacement</h1>
 			<h2>Urgent Care Bumper Repair brings 20 years of experience in the field, and guarantees the best possible results when replacing the bumper on your car. You will think it came out of the factory like that!</h2>

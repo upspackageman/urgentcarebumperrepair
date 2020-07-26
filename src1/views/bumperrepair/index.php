@@ -148,7 +148,6 @@
 				<div class="swiper-slide"><img src="assets/images/Import images/2020-04-29/Car1/086.jpg"  class="captionImages" alt="..."></div>
 				<div class="swiper-slide"><img src="assets/images/Import images/2020-04-29/Car1/087.jpg"  class="captionImages" alt="..."></div>
 				<div class="swiper-slide"><img src="assets/images/Import images/2020-04-29/Car1/088.jpg"  class="captionImages" alt="..."></div>
-				<div class="swiper-slide"><img src="assets/images/Import images/2020-04-29/Car1/089.jpg"  class="captionImages" alt="..."></div>
 				<div class="swiper-slide"><img src="assets/images/Import images/2020-04-29/Car1/091.jpg"  class="captionImages" alt="..."></div>
 				<div class="swiper-slide"><img src="assets/images/Import images/2020-04-29/Car1/092.jpg"  class="captionImages" alt="..."></div>
 				<div class="swiper-slide"><img src="assets/images/Import images/2020-04-29/Car1/093.jpg"  class="captionImages" alt="..."></div>

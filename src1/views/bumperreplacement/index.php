@@ -27,95 +27,27 @@
          <div class="swiper-container bumperreplacement">
 			<div class="swiper-wrapper">
 				<div class="swiper-slide">
-				  <img src="assets/images/Aptera/IMG_1.jpg" class="captionImages"   alt="...">
+				  <img src="assets/images/Import images/2020-04-29/car3/174.jpg" class="captionImages"   alt="...">
 				</div>
 				<div class="swiper-slide">
-				  <img src="assets/images/Aptera/IMG_2.jpg" class="captionImages"  alt="...">
+				  <img src="assets/images/Import images/2020-04-29/car3/185.jpg" class="captionImages"  alt="...">
 				</div>
 				<div class="swiper-slide">
-				  <img src="assets/images/Aptera/IMG_3.jpg" class="captionImages"   alt="...">
+				  <img src="assets/images/Import images/2020-04-29/car3/186.jpg" class="captionImages"   alt="...">
 				</div>
 				<div class="swiper-slide">
-				  <img src="assets/images/Aptera/IMG_4.jpg" class="captionImages"   alt="...">
+				  <img src="assets/images/Import images/2020-04-29/car3/187.jpg" class="captionImages"   alt="...">
 				</div>
 				<div class="swiper-slide">
-				  <img src="assets/images/Aptera/IMG_5.jpg" class="captionImages"  alt="...">
+				  <img src="assets/images/Import images/2020-04-29/car3/189.jpg" class="captionImages"  alt="...">
 				</div>
 				<div class="swiper-slide">
-				  <img src="assets/images/Aptera/IMG_6.jpg" class="captionImages"  alt="...">
+				  <img src="assets/images/Import images/2020-04-29/car3/188.jpg" class="captionImages"  alt="...">
 				</div>
 				<div class="swiper-slide">
-				  <img src="assets/images/Aptera/IMG_7.jpg" class="captionImages"  alt="...">
+				  <img src="assets/images/Import images/2020-04-29/car3/190.jpg" class="captionImages"  alt="...">
 				</div>
-				<div class="swiper-slide">
-				  <img src="assets/images/Aptera/IMG_8.jpg" class="captionImages"  alt="...">
-				</div>
-				<div class="swiper-slide">
-				  <img src="assets/images/Aptera/IMG_9.jpg" class="captionImages"  alt="...">
-				</div>
-				<div class="swiper-slide">
-				  <img src="assets/images/Aptera/IMG_10.jpg" class="captionImages"  alt="...">
-				</div>
-				<div class="swiper-slide">
-				  <img src="assets/images/Aptera/IMG_11.jpg" class="captionImages"  alt="...">
-				</div>
-				<div class="swiper-slide">
-				  <img src="assets/images/Aptera/IMG_12.jpg" class="captionImages"  alt="...">
-				</div>
-				<div class="swiper-slide">
-				  <img src="assets/images/Aptera/IMG_13.jpg" class="captionImages"  alt="...">
-				</div>
-				<div class="swiper-slide">
-				  <img src="assets/images/Aptera/IMG_14.jpg" class="captionImages"  alt="...">
-				</div>
-				<div class="swiper-slide">
-				  <img src="assets/images/Aptera/IMG_15.jpg" class="captionImages"  alt="...">
-				</div>
-				<div class="swiper-slide">
-				  <img src="assets/images/Aptera/IMG_16.jpg" class="captionImages"  alt="...">
-				</div>
-				<div class="swiper-slide">
-				  <img src="assets/images/Aptera/IMG_17.jpg" class="captionImages"  alt="...">
-				</div>
-				<div class="swiper-slide">
-				  <img src="assets/images/Aptera/IMG_18.jpg" class="captionImages"  alt="...">
-				</div>
-				<div class="swiper-slide">
-				  <img src="assets/images/Aptera/IMG_19.jpg" class="captionImages"  alt="...">
-				</div>
-				<div class="swiper-slide">
-				  <img src="assets/images/Aptera/IMG_20.jpg" class="captionImages"  alt="...">
-				</div>
-				<div class="swiper-slide">
-				  <img src="assets/images/Aptera/IMG_21.jpg" class="captionImages"  alt="...">
-				</div>
-				<div class="swiper-slide">
-				  <img src="assets/images/Aptera/IMG_22.jpg" class="captionImages"  alt="...">
-				</div>
-				<div class="swiper-slide">
-				  <img src="assets/images/Aptera/IMG_23.jpg" class="captionImages"  alt="...">
-				</div>
-				<div class="swiper-slide">
-				  <img src="assets/images/Aptera/IMG_24.jpg" class="captionImages"  alt="...">
-				</div>
-				<div class="swiper-slide">
-				  <img src="assets/images/Aptera/IMG_25.jpg" class="captionImages"  alt="...">
-				</div>
-				<div class="swiper-slide">
-				  <img src="assets/images/Aptera/IMG_26.jpg" class="captionImages"  alt="...">
-				</div>
-				<div class="swiper-slide">
-				  <img src="assets/images/Aptera/IMG_27.jpg" class="captionImages"  alt="...">
-				</div>
-				<div class="swiper-slide">
-				  <img src="assets/images/Aptera/IMG_28.jpg" class="captionImages"  alt="...">
-				</div>
-				<div class="swiper-slide">
-				  <img src="assets/images/Aptera/IMG_29.jpg" class="captionImages"  alt="...">
-				</div>
-				<div class="swiper-slide">
-				  <img src="assets/images/Aptera/IMG_30.jpg" class="captionImages"  alt="...">
-				</div>
+				
 			</div>
 		    <div class="swiper-pagination process-pagination swiper-pagination-white"></div>
 			<div class="swiper-button-prev swipeColor"></div>

@@ -38,13 +38,18 @@
       <div class="caption">
 		  <div class="swiper-container process">
 				<div class="swiper-wrapper">
-					<div class="swiper-slide"><img src="assets/images/Process/IMG_1.jpg"   class="captionImages" alt="..."></div>
-					<div class="swiper-slide"><img src="assets/images/Process/IMG_2.jpg"   class="captionImages" alt="..."></div>
-					<div class="swiper-slide"><img src="assets/images/Process/IMG_3.jpg"   class="captionImages" alt="..."></div>
-					<div class="swiper-slide"><img src="assets/images/Process/IMG_4.jpg"   class="captionImages" alt="..."></div>
-					<div class="swiper-slide"><img src="assets/images/Process/IMG_5.jpg"   class="captionImages" alt="..."></div>
-					<div class="swiper-slide"><img src="assets/images/Process/IMG_6.jpg"   class="captionImages" alt="..."></div>
-					<div class="swiper-slide"><img src="assets/images/Process/IMG_7.jpg"   class="captionImages" alt="..."></div>
+					
+					<div class="swiper-slide"><img src="assets/images/Import images/2020-04-29/process/1.jpg"   class="captionImages" alt="..."></div>
+					<div class="swiper-slide"><img src="assets/images/Import images/2020-04-29/process/2.jpg"   class="captionImages" alt="..."></div>
+					<div class="swiper-slide"><img src="assets/images/Import images/2020-04-29/process/3.jpg"   class="captionImages" alt="..."></div>
+					<div class="swiper-slide"><img src="assets/images/Import images/2020-04-29/process/4.jpg"   class="captionImages" alt="..."></div>
+					<div class="swiper-slide"><img src="assets/images/Import images/2020-04-29/process/5.jpg"   class="captionImages" alt="..."></div>
+					<div class="swiper-slide"><img src="assets/images/Import images/2020-04-29/process/6.jpg"   class="captionImages" alt="..."></div>
+					<div class="swiper-slide"><img src="assets/images/Import images/2020-04-29/process/7.jpg"   class="captionImages" alt="..."></div>
+					<div class="swiper-slide"><img src="assets/images/Import images/2020-04-29/process/8.jpg"   class="captionImages" alt="..."></div>
+					<div class="swiper-slide"><img src="assets/images/Import images/2020-04-29/process/9.jpg"   class="captionImages" alt="..."></div>
+					<div class="swiper-slide"><img src="assets/images/Import images/2020-04-29/process/10.jpg"   class="captionImages" alt="..."></div>
+					<div class="swiper-slide"><img src="assets/images/Import images/2020-04-29/process/11.jpg"   class="captionImages" alt="..."></div>
 				</div>
 				<div class="swiper-pagination process-pagination swiper-pagination-white"></div>
 				<div class="swiper-button-prev swipeColor"></div>

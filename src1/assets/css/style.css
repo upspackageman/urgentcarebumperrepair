@@ -68,15 +68,15 @@ img.imageLogo{
 	height:600px;
 	text-align: center;
 	vertical-align: text-top;
-	 background-image:url("../images/Import images/2020-04-29/car/166.jpg");
-	background-repeat: no-repeat;background-size: 100% 100%;
+	background-image:url("../images/Import images/2020-04-29/car/166.jpg"); 
+  background-repeat: no-repeat;background-size: 100% 100%;*/
 	text-shadow: 8px 8px 6px #000;
 	
-   
+  
 	animation: fill-images 30s;
 	transition: background-image 1s ease-in-out;
-	animation-iteration-count: infinite;
-	 
+  animation-iteration-count: infinite;
+  	 
  }
  
  .captionServiceHeader {
@@ -259,6 +259,15 @@ span.contact1{
   text-align: center;
   padding-right: 1rem;
   padding-left: 1rem;
+}
+
+.text{
+  font-weight: 400;
+  font-size: 1.0rem;
+  /* text-transform: capitalize; */
+  color: #000;
+  margin: 0;
+
 }
 
 .bumper-landing-text{

@@ -186,7 +186,7 @@
 			<span class="sr-only">Next</span>
 		  </a>
 		</div-->
-      </div>
+    </div>
       <!--img src="https://source.unsplash.com/1600x900/?nature,trees" alt=""-->
 	  <div class="caption1">
 		<img class="categoryLogo" src="assets/images/logo2.png"/>
@@ -203,7 +203,6 @@
 				<div class="swiper-slide"><img src="assets/images/Import images/2020-04-29/car/164.jpg" class="captionImages"   class="captionImages" alt="..."></div>
 				<div class="swiper-slide"><img src="assets/images/Import images/2020-04-29/car/165.jpg" class="captionImages"   class="captionImages" alt="..."></div>
 				<div class="swiper-slide"><img src="assets/images/Import images/2020-04-29/car/166.jpg" class="captionImages"   class="captionImages" alt="..."></div>
-				<div class="swiper-slide"><img src="assets/images/Import images/2020-04-29/car/167.jpg" class="captionImages"   class="captionImages" alt="..."></div>
 			</div>
 			<div class="swiper-pagination car-pagination swiper-pagination-white"></div>
 			<div class="swiper-button-prev car-swiper-button-prev swipeColor"></div>
