@@ -39,7 +39,7 @@
 		  <div class="swiper-container process">
 				<div class="swiper-wrapper">
 					
-					<div class="swiper-slide"><img src="assets/images/Import images/2020-04-29/process/1.jpg"   class="captionImages" alt="..."></div>
+					
 					<div class="swiper-slide"><img src="assets/images/Import images/2020-04-29/process/2.jpg"   class="captionImages" alt="..."></div>
 					<div class="swiper-slide"><img src="assets/images/Import images/2020-04-29/process/3.jpg"   class="captionImages" alt="..."></div>
 					<div class="swiper-slide"><img src="assets/images/Import images/2020-04-29/process/4.jpg"   class="captionImages" alt="..."></div>
