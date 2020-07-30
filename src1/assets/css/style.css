@@ -286,7 +286,7 @@ span.contact1{
 }
 
 .landing-text h2 {
-  color: #fffff;
+  color: #ffffff;
 }
 
 .landing-text-inner{
@@ -538,6 +538,14 @@ footer h3 {
     padding: 15px 45px;
     font-size: 16px;
 }
+
+.est{
+  font-size: 3em !important; /*size whatever you like*/
+  font-weight:50;
+}
+
+
+
 
 
 .op-8{

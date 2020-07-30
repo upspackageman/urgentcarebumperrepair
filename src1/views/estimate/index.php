@@ -6,11 +6,14 @@
     <!-- Row -->
     <div class="row justify-content-center mt-5">
 		
-      <div class="col-lg-6 col-md-7 text-center text-white font-weight-normal op-8" >
+      <div class="col-lg-6 col-md-7 text-center text-white font-weight-normal op-8 mt-5" >
 	  <h1 class="text-white font-weight-normal op-8" >Would you like a free estimate?</h1><br/>
 	  <h2 class="text-white font-weight-normal op-8"></h2>
 	  <p></p>
-	  
+    <div style="background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4))">
+	    <img src="assets/images/Import images/2020-04-29/238a.png" style="border-style: inset; border-radius: 3px; border-width: 20px; border-color:rgba(98, 83, 70, 0.32);" class="captionImages" alt="...">
+    </div>
+    <p></p>
 	  <h2 class="text-white font-weight-normal op-8">It’s very easy to get your FREE ONLINE OR PHONE ESTIMATE.</h2>
 	  <p></p>
 	  <h5 class="text-white font-weight-normal op-8">Just snap a couple of photos of your damage with your digital camera or smart phone.</h5> 
@@ -27,9 +30,17 @@
 	  
 	  <div class="theButton">
 			<a href="mailto:estimate@urgentcarebumperrepair.com?subject=Estimate from Urgent Care Bumper Repair" class="btn" id="view-work">
-				Get Estimate
+      <i class="far fa-envelope est"></i>
 			</a>
 		</div>
+
+    <div class="theButton">
+			<a href="sms:17609949400" class="btn" id="view-work">
+      <i class="far fa-comment-dots est"></i>
+			</a>
+		</div>
+
+    
 		
 		
 	  <!-- just snap a couple of photos of your damage with your digital camera or camera phone and email your make, model and year to me at <a href="mailto:estimate@urgentcarebumperrepair.com">estimate@urgentcarebumperrepair.com</a> along with your name, phone number and best time to call. 
@@ -38,9 +49,9 @@ I understand how frustrating it can be to schedule work on your car, and the con
 I work with you and your insurance company (if they are involved) and get the job done quickly, and most importantly, looking great. 
 The craftsmanship that I put into your repair is unparalleled by others. I take pride in my work and I will go out of my way to give you the best repair you are going to find.
 I give you a lifetime warranty on the craftsmanship of the repair for as long as you own your car.
-        <!--div class="card shadow-lg" style="background-color: rgba(255,255,255, 0.8)" -->
+        <div class="card shadow-lg" style="background-color: rgba(255,255,255, 0.8)" -->
           <!--div class="card-body">
-            <!--div class="text-box">
+            <div class="text-box">
               <h2 class="title font-weight-light"><span class="font-weight-bold font-italic">Estimates</span> <br>Would you like a free estimate?</h2>
               <form class="mt-3" style="">
                 <div class="row">
@@ -55,7 +66,7 @@ I give you a lifetime warranty on the craftsmanship of the repair for as long as
 					</h5>
 				</div>
 				
-                  <!--div class="col-lg-12">
+                  <div class="col-lg-12">
                     <div class="form-group">
                       <input class="form-control" id="firstname" name="firstname" maxlength="25" type="text" placeholder="your name">
                     </div>
@@ -124,7 +135,7 @@ I give you a lifetime warranty on the craftsmanship of the repair for as long as
 	  
     </div>
   </div>
- <div class="modal fade" id="sendEstimateModal" tabindex="-1" role="dialog" aria-labelledby="sendEstimateLabel" aria-hidden="true">
+ <!--div class="modal fade" id="sendEstimateModal" tabindex="-1" role="dialog" aria-labelledby="sendEstimateLabel" aria-hidden="true">
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
@@ -143,7 +154,7 @@ I give you a lifetime warranty on the craftsmanship of the repair for as long as
     </div>
   </div>
 </div>
-</div>
+</div-->
 
 
 
