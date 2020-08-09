@@ -57,7 +57,7 @@
 	  <div class="caption1">
         <img class="categoryLogo" src="assets/images/logo2.png"/>
       </div>
-      <!--img src="https://source.unsplash.com/1600x900/?nature,animals" alt=""-->
+      
       <div class="caption" >
          <div class="swiper-container bumperreplacement">
 			<div class="swiper-wrapper">

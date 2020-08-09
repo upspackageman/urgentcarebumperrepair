@@ -62,8 +62,8 @@
 			<h2>Testimonials</h2>
 		  </div>
 	
-		  <!--img src="https://source.unsplash.com/1600x900/?nature,water" alt=" "-->
-	  <div class="caption" style="background-image:linear-gradient(rgba(256, 256, 256, 0.78), rgba(256, 256, 256, 0.78)),url(assets/images/Services/background.jpg); background-size:cover; height:500px;">
+		  
+	  <div class="caption" style="background-image:linear-gradient(rgba(17, 17, 17, 0.05), rgba(17, 17, 17, 0.05)),url(assets/images/Services/background.jpg); background-size:cover; height:500px;">
 		<div class="swiper-container lexus1  ">
 		  <div class="swiper-wrapper mt-5">  
 				<div class="swiper-slide" >

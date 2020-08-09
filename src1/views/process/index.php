@@ -58,78 +58,10 @@
 		
 	  
 	  
-         <!--div id="processControls" class="carousel slide"  data-ride="carousel" data-interval="false">
-		  <ol class="carousel-indicators">
-			<li data-target="#processControls" data-slide-to="0" class="active"></li>
-			<li data-target="#processControls" data-slide-to="1"></li>
-			<li data-target="#processControls" data-slide-to="2"></li>
-			<li data-target="#processControls" data-slide-to="3"></li>
-			<li data-target="#processControls" data-slide-to="4"></li>
-			<li data-target="#processControls" data-slide-to="5"></li>
-			<li data-target="#processControls" data-slide-to="6"></li>
-			<li data-target="#processControls" data-slide-to="7"></li>
-		  </ol>
-			<div class="carousel-inner">
-				<div class="carousel-item active">
-				  <img src="assets/images/Process/IMG_1.jpg" class="captionImages"   alt="...">
-				</div>
-				<div class="carousel-item ">
-				  <img src="assets/images/Process/IMG_2.jpg" class="captionImages"   alt="...">
-				</div>
-				<div class="carousel-item">
-				  <img src="assets/images/Process/IMG_3.jpg" class="captionImages"   alt="...">
-				</div>
-				<div class="carousel-item">
-				  <img src="assets/images/Process/IMG_4.jpg" class="captionImages"   alt="...">
-				</div>
-				<div class="carousel-item">
-				  <img src="assets/images/Process/IMG_5.jpg" class="captionImages"   alt="...">
-				</div>
-				<div class="carousel-item">
-				  <img src="assets/images/Process/IMG_6.jpg" class="captionImages"   alt="...">
-				</div>
-				<div class="carousel-item">
-				  <img src="assets/images/Process/IMG_7.jpg" class="captionImages"   alt="...">
-				</div>
-				<div class="carousel-item">
-				  <img src="assets/images/Process/IMG_8.jpg" class="captionImages"   alt="...">
-				</div>				
-			</div>
-		  <a href class="carousel-control-prev" data-target="#processControls" role="button" data-slide="prev">
-			<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-			<span class="sr-only">Previous</span>
-		  </a>
-		  <a href class="carousel-control-next" data-target="#processControls" role="button" data-slide="next">
-			<span class="carousel-control-next-icon" aria-hidden="true"></span>
-			<span class="sr-only">Next</span>
-		  </a>
-		</div-->
+         
       </div>
-	  <!--div class="caption" style="height:100px">
-        <img class="categoryLogo" src="assets/images/logo2.png"/>
-      </div>
-      <!--img src="https://source.unsplash.com/1600x900/?nature,animals" alt=""-->
-      <!--div class="caption" >
-         <div id="bmwControls" class="carousel slide" data-interval="false" data-ride="carousel" data-interval="false">
-			<div class="carousel-inner">
-				<div class="carousel-item active">
-				  <img src="assets/images/BMW/IMG_1.jpg" class="captionImages"  alt="...">
-				</div>
-				<div class="carousel-item">
-				  <img src="assets/images/BMW/IMG_2.jpg" class="captionImages"  alt="...">
-				</div>
-				
-			</div>
-		  <a href class="carousel-control-prev" data-target="#bmwControls" role="button" data-slide="prev">
-			<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-			<span class="sr-only">Previous</span>
-		  </a>
-		  <a href class="carousel-control-next" data-target="#bmwControls" role="button" data-slide="next">
-			<span class="carousel-control-next-icon" aria-hidden="true"></span>
-			<span class="sr-only">Next</span>
-		  </a>
-		</div>
-      </div-->
+	 
+      
       <div class="captionBottom">
 		<div class="theButton">
 			<a href="views/service/index.php" class="btn route" id="view-work">
