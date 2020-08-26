@@ -11,7 +11,7 @@ var lexus1 = new Swiper('.lexus1', {
     },
     autoplay: {
         delay: 5000,
-        disableOnInteraction: false,
+        disableOnInteraction: true,
       },
     navigation: {
       nextEl: '.swiper-button-next',

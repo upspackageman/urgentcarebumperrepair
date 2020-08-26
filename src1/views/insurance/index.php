@@ -13,8 +13,7 @@
           <p></p>
 		  <h6 class="text-white">UCBR works with ALL car insurance carriers and companies. We also honestly advise you whether it is best to move ahead with your claim or not; with a no obligation quote.</h6>
 		  <p></p>
-		  <h6 class="text-white">First, you will need to have your car seen by Jared and he will provide you with a written claim.</h6>
-		  <h6 class="text-white">Upon choosing UCBR as your 'body shop", all we need is your name, number and insurance information, claim number and agent's name.</h6>
+		  <h6 class="text-white">Please contact us to furher advise you in your decision to file a claim or not. </h6>
 		  <h6 class="text-white">We'll take it from there so that you don't have to hassle with it.</h6>
 		  <a href="#insurance" class="btn mb-5" id="view-work">
             View Work

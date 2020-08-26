@@ -14,15 +14,14 @@
 		  <h6 class="text-white">The repair starts with reshaping and sanding down the damaged area;</h6>
 		  <h6 class="text-white">Depending on the amount of damage and its severity, polyurethane filler is added, if needed, to smooth out the surface;</h6>
 		  <h6 class="text-white">The area is then sanded to return the part to its original shape and integrity;</h6>
-		  <h6 class="text-white">2-3 layers of a primer/surface is applied;</h6>
+		  <h6 class="text-white">2-3 layers of a primer/surfacer is applied;</h6>
 		  <h6 class="text-white">An infrared curing lamp is used to properly heat and cure the primer, then the primer is sanded, a final preparation of the surface is done;</h6>
 		  <h6 class="text-white">Next, the paint code is retrieved directly from your vehicle and used to achieve your car’s color match;</h6>
 		  <h6 class="text-white">Then between 5-12 coats of paint are applied to the repair, depending on the color;</h6>
-		  <h6 class="text-white">Then between 5-12 coats of paint are applied to the repair, depending on the color;</h6>
-		  <h6 class="text-white">Once the technician feels the paint is dry enough, he removes the masking for the paint to cure and observes the results;</h6>
-		  <h6 class="text-white">Work area is cleaned up and left respectfully how it was found;</h6>
-		  <h6 class="text-white">Your satisfaction is guaranteed by a lifetime warranty (as long as you own the car).</h6>
-          <a href="#process" class="btn" id="view-work">
+		  <h6 class="text-white">Once I feel the paint is dry enough, I remove the masking etc. for the paint to cure and inspect the final result for quality;</h6>
+		  <h6 class="text-white">Work area is cleaned up respectfully;</h6>
+		  <h6 class="text-white">All our refinishing services carry a lifetime cratftmanship warranty; </h6>
+		  <a href="#process" class="btn" id="view-work">
             View Work
           </a>
         </div>

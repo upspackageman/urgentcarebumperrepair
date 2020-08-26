@@ -4,13 +4,13 @@
 </head>
 <main>
 		<!-- Landing Area -->
-	<div class="captionHeader" style="background-color:rgb(255,255,255)">
+	<div class="captionHeader mb-5" style="background-color:rgb(255,255,255)">
 		<div class="swiper-container lexus1 mt-5 ">
 			<div class="swiper-wrapper">
 				<div class="swiper-slide" >
 					<div class="landing-text-inner" style="text-shadow: 8px 8px 6px #000;">
 						<h1 class="title">Urgent Care Bumper Repair</h1>
-						<h2 class="ml-3 mr-3">We specialize in mobile bumper repair and bumper replacements or in house. all auto makes and models. We can come to you or you can come to us. Free estimates. We also provide complete collision service and accept all insurance carriers. 20 years of experience. Owner operated. Free shuttle service for drop off repairs in the North County area. -Lifetime warranty on all repairs-</h2>
+						<h2 class="ml-3 mr-3">20 years of experience. Owner operated. We specialize in mobile bumper repair and bumper replacements or in house. all auto makes and models. We can come to you or you can come to us. </h2>
 						<a href="views/service/index.php" class="btn route" >
 						View Services
 						</a>
@@ -19,8 +19,8 @@
 				<div class="swiper-slide" >
 					<div class="landing-text-inner" style="text-shadow: 8px 8px 6px #000;">
 						<h1 class="title">Bumper Repair</h1>
-						<h2  class="ml-3 mr-3">Urgent Care Bumper Repair’s expertise is in restoring your damaged bumper to as it was new. If your part does need to be replaced, I can bring it to you and assemble it, painted!</h2>
-						<a href="views/service/index.php" class="btn route" >
+						<h2  class="ml-3 mr-3">Urgent Care Bumper Repair’s expertise is in restoring your damaged bumper to as it was new. If necessary, we can replace your parts whether they require paint to match the vehicle or a part that does not require any paint. If your new part does require paint, we have the ability to collect a color sample and color code along with the deposit for the part. Once painted, we will bring it to you or you can come to us for installation which takes one to two hours. Which gives you the ability to use your vehile while the part is being painted. No need to leave your vehicle at a shop for any reason (NO RENTAL CAR NEEDED).</h2>
+						<a href="views/bumperrepair/index.php" class="btn route" >
 							View Services
 						</a>
 					</div>
@@ -28,8 +28,8 @@
 				<div class="swiper-slide" >
 					<div class="landing-text-inner" style="text-shadow: 8px 8px 6px #000;">
 						<h1 class="title">Bumper Replacement</h1>
-						<h2  class="ml-3 mr-3">Urgent Care Bumper Repair Brings 20 Years Of Experience In The Field, And Guarantees The Best Possible Results When Replacing The Bumper On Your Car. You Will Think It Came Out Of The Factory Like That!</h2>
-						<a href="views/service/index.php" class="btn route" >
+						<h2  class="ml-3 mr-3">We can replace your parts whether they require paint to match the vehicle or a part that does not require any paint. If your new part does require paint, we have the ability to collect a color sample and color code along with the deposit for the part. Once painted, we will bring it to you or you can come to us for installation which takes one to two hours. Which gives you the ability to use your vehile while the part is being painted. No need to leave your vehicle at a shop for any reason (NO RENTAL CAR NEEDED). Urgent Care Bumper Repair Brings 20 Years Of Experience In The Field, And Guarantees The Best Possible Results When Replacing The Bumper On Your Car. You Will Think It Came Out Of The Factory Like That!</h2>
+						<a href="views/bumperrplacement/index.php" class="btn route" >
 						View Services
 						</a>
 					</div>
@@ -38,7 +38,7 @@
 					<div class="landing-text-inner" style="text-shadow: 8px 8px 6px #000;">
 						<h1 class="title">Process</h1>
 						<h2  class="ml-3 mr-3">Your Satisfaction Is Guaranteed By A Lifetime Warranty (As Long As You Own The Car).</h2>
-						<a href="views/service/index.php" class="btn route" >
+						<a href="views/process/index.php" class="btn route" >
 						View Services
 						</a>
 					</div>
@@ -47,12 +47,14 @@
 					<div class="landing-text-inner" style="text-shadow: 8px 8px 6px #000;">
 						<h1 class="title">Insurance Claims</h1>
 						<h2  class="ml-3 mr-3">UCBR Works With ALL Car Insurance Carriers And Companies.</h2>
-						<a href="views/service/index.php" class="btn route" >
+						<a href="views/insurance/index.php" class="btn route" >
 						View Services
 						</a>
 					</div>
 				</div>
 			</div>
+			<div class="swiper-button-next lexus1-swiper-button-next swipeColor"></div>
+				<div class="swiper-button-prev lexus1-swiper-button-prev swipeColor"></div>
 		</div>  
 	</div> 
 	
