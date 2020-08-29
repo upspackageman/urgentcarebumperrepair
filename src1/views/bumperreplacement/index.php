@@ -5,11 +5,18 @@
 </head>
 <main>
     <!-- Landing Area -->
-    <div class="captionBumperreplacement" style="background-color:rgb(0,0,0);">
+    <div class="captionBumperreplacement" style="background-color:rgb(147, 154, 163);">
       <div class="bumperreplace-landing-text">
         <div class="bumperreplace-landing-text-inner">
-          <h1 class="title">Bumper Replacement</h1>
-          <h2></h2>
+          <h1 class="title mb-3">Bumper Replacement</h1>
+          <h6>
+		  We can replace your parts whether they require paint to match the vehicle or a part that does not require any paint. 
+		  If your new part does require paint, we have the ability to collect a color sample and color code along with the deposit for the part. 
+		  Once painted, we will bring it to you or you can come to us for installation which takes one to two hours. 
+		  Which gives you the ability to use your vehile while the part is being painted. No need to leave your vehicle at a shop for any reason (NO RENTAL CAR NEEDED). 
+		  Urgent Care Bumper Repair Brings 20 Years Of Experience In The Field, And Guarantees The Best Possible Results When Replacing The Bumper On Your Car. 
+		  You Will Think It Came Out Of The Factory Like That!
+		  </h6>
           <a href="#bumperreplacement" class="btn mb-5" id="view-work">
             View Work
           </a>
@@ -20,7 +27,7 @@
 </div>
     <div class="images" id="bumperreplacement">
       <div id="header">
-        <h2>Our Work</h2>
+        <h2>View Gallery</h2>
       </div>
 
       <div class="caption" >

@@ -5,8 +5,8 @@
 </head>
 <main>
     <!-- Landing Area -->
-    <div class="captionInsuranceHeader mt-5" style="background-color:rgb(0,0,0)">
-      <div class="landing-text">
+    <div class="captionInsuranceHeader mt-5" style="background-color:rgb(147, 154, 163)">
+      <div class="landing-text" style="padding-top:12%;">
         <div class="landing-text-inner">
           <h1 class="title">Insurance</h1>
           <h6 class="text-white">A lot of the time, the damage on your car is to be paid for by an insurance company, whether it was your accident or done by you by not fault of your own.</h2>
@@ -16,7 +16,7 @@
 		  <h6 class="text-white">Please contact us to furher advise you in your decision to file a claim or not. </h6>
 		  <h6 class="text-white">We'll take it from there so that you don't have to hassle with it.</h6>
 		  <a href="#insurance" class="btn mb-5" id="view-work">
-            View Work
+            View Gallery
           </a>
         </div>
       </div>

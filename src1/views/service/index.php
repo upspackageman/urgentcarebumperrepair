@@ -4,7 +4,7 @@
 </head>
 <main>
     <!-- Landing Area -->
-    <div class="captionServiceHeader mt-5" style="background-color:rgb(0,0,0)">
+    <div class="captionServiceHeader mt-5" style="background-color:rgb(147, 154, 163)">
       <div class="landing-text">
         <div class="service-landing-text-inner">
           <h1 class="title">Services</h1>

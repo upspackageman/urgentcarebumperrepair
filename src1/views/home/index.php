@@ -4,8 +4,34 @@
 </head>
 <main>
 		<!-- Landing Area -->
-	<div class="captionHeader mb-5" style="background-color:rgb(255,255,255)">
-		<div class="swiper-container lexus1 mt-5 ">
+	<div class="captionHeader" style="background-color:rgb(147, 154, 163)">
+	
+	<div class ="menu ml-3 mr-3">
+		<h1 class="title mt-3">Urgent Care Bumper Repair</h1>
+		<h2 class="ml-3 mr-3 mt-3">20 years of experience. Owner operated. We specialize in mobile bumper repair and bumper replacements or in house. all auto makes and models. We can come to you or you can come to us. </h2>	
+		<div class="landing-text-inner mt-5" >
+			<a href="views/bumperrepair/index.php" data-target="#bumperrepair" class="btnCaptionHeader route" >
+				<h2 class="title"> Bumper Repair</h2>
+			</a>
+		</div>
+		<div class="landing-text-inner">
+			<a href="views/bumperreplacement/index.php" data-target="#bumperreplacement" class="btnCaptionHeader route" >
+				<h2 class="title">Bumper Replacement</h2>
+			</a>
+		</div>
+		<div class="landing-text-inner" >
+			<a href="views/process/index.php" data-target="#process" class="btnCaptionHeader route" >
+				<h2 class="title"> Process</h2>
+			</a>
+		</div>
+		<div class="landing-text-inner" >
+			<a href="views/insurance/index.php" data-target="#insurance" class="btnCaptionHeader route" >
+				<h2 class="title">Insurance</h2>
+			</a>
+		</div>
+	</div>			
+
+		<!--<div-- class="swiper-container lexus1 mt-5 ">
 			<div class="swiper-wrapper">
 				<div class="swiper-slide" >
 					<div class="landing-text-inner" style="text-shadow: 8px 8px 6px #000;">
@@ -55,7 +81,7 @@
 			</div>
 			<div class="swiper-button-next lexus1-swiper-button-next swipeColor"></div>
 				<div class="swiper-button-prev lexus1-swiper-button-prev swipeColor"></div>
-		</div>  
+		</div-->  
 	</div> 
 	
 	

@@ -42,12 +42,13 @@
 	<script src="https://kit.fontawesome.com/9fa30b394f.js" crossorigin="anonymous"></script>
 	<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
 	<script src="assets/js/route.js"></script>
+	<script src="assets/js/nav.js"></script>
 	<script src="assets/js/homeSwiper.js"></script>
 	
 </head>
 
 <body>
-<nav class="navbar navbar-expand-lg navbar-light bg-light shadow p-3 mb-5 rounded fixed-top">
+<nav class="navbar navbar-expand-lg navbar-light bg-light shadow p-3 mb-5 rounded-0 fixed-top">
   <a class="route" href="views/home/index.php"><img class="imageLogo" src="assets/images/logo2.png" alt="logo"></a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
@@ -61,16 +62,50 @@
     </div>
   </div>
 </nav>
+
+<div class="loader">
+	<div class="circle"></div>
+	<div class="circle"></div>
+</div>
+
+	
+
 <div class="content">
-	<main>
+	<main class="main">
 		<!-- Landing Area -->
-	<div class="captionHeader mb-5" style="background-color:rgb(255, 255, 255)">
-		<div class="swiper-container lexus1 mt-5 ">
+	<div class="captionHeader" style="background-color:rgb(255,255,255)">
+	
+	<div class ="menu ml-3 mr-3">
+		<h1 class="title mt-3">Urgent Care Bumper Repair</h1>
+		<h2 class="ml-3 mr-3 mt-3">20 years of experience. Owner operated. We specialize in mobile bumper repair and bumper replacements or in house. all auto makes and models. We can come to you or you can come to us. </h2>	
+		<div class="landing-text-inner mt-5" >
+			<a href="views/bumperrepair/index.php" data-target="#bumperrepair" class="btnCaptionHeader route" >
+				<h2 class="title linkService"> Bumper Repair</h2>
+			</a>
+		</div>
+		<div class="landing-text-inner">
+			<a  href="views/bumperreplacement/index.php" data-target="#bumperreplacement" class="btnCaptionHeader route" >
+				<h2 class="title linkService">Bumper Replacement</h2>
+			</a>
+		</div>
+		<div class="landing-text-inner" >
+			<a  href="views/process/index.php" data-target="#process" class="btnCaptionHeader route" >
+				<h2 class="title linkService"> Process</h2>
+			</a>
+		</div>
+		<div class="landing-text-inner" >
+			<a  href="views/insurance/index.php" data-target="#insurance" class="btnCaptionHeader route" >
+				<h2 class="title linkService">Insurance</h2>
+			</a>
+		</div>
+	</div>			
+
+		<!--<div-- class="swiper-container lexus1 mt-5 ">
 			<div class="swiper-wrapper">
 				<div class="swiper-slide" >
 					<div class="landing-text-inner" style="text-shadow: 8px 8px 6px #000;">
 						<h1 class="title">Urgent Care Bumper Repair</h1>
-						<h2 class="ml-3 mr-3">20 years of experience. Owner operated. We specialize in mobile bumper repair and bumper replacements or in house. all auto makes and models. We can come to you or you can come to us.</h2>
+						<h2 class="ml-3 mr-3">20 years of experience. Owner operated. We specialize in mobile bumper repair and bumper replacements or in house. all auto makes and models. We can come to you or you can come to us. </h2>
 						<a href="views/service/index.php" class="btn route" >
 						View Services
 						</a>
@@ -89,7 +124,7 @@
 					<div class="landing-text-inner" style="text-shadow: 8px 8px 6px #000;">
 						<h1 class="title">Bumper Replacement</h1>
 						<h2  class="ml-3 mr-3">We can replace your parts whether they require paint to match the vehicle or a part that does not require any paint. If your new part does require paint, we have the ability to collect a color sample and color code along with the deposit for the part. Once painted, we will bring it to you or you can come to us for installation which takes one to two hours. Which gives you the ability to use your vehile while the part is being painted. No need to leave your vehicle at a shop for any reason (NO RENTAL CAR NEEDED). Urgent Care Bumper Repair Brings 20 Years Of Experience In The Field, And Guarantees The Best Possible Results When Replacing The Bumper On Your Car. You Will Think It Came Out Of The Factory Like That!</h2>
-						<a href="views/bumperreplacement/index.php" class="btn route" >
+						<a href="views/bumperrplacement/index.php" class="btn route" >
 						View Services
 						</a>
 					</div>
@@ -112,11 +147,10 @@
 						</a>
 					</div>
 				</div>
-				
 			</div>
 			<div class="swiper-button-next lexus1-swiper-button-next swipeColor"></div>
 				<div class="swiper-button-prev lexus1-swiper-button-prev swipeColor"></div>
-		</div>  
+		</div-->  
 	</div> 
 	
 	
@@ -127,7 +161,7 @@
 	
 		  
 	  <div class="caption" style="background-image:linear-gradient(rgba(17, 17, 17, 0.2), rgba(17, 17, 17, 0.2)),url(assets/images/Services/background.jpg); background-size:cover; height:500px;">
-		<div class="swiper-container lexus1 ">
+		<div class="swiper-container lexus1  ">
 		  <div class="swiper-wrapper mt-5">  
 				<div class="swiper-slide" >
 				  <h2 class="text ml-3 mr-3"><q>Jared came highly recommended to me by my colleague, Steve. I needed him to repair my Porsche 911 that I don't trust to just anyone.
@@ -161,12 +195,15 @@
 				  <p class="author">- Steve Shanahan</p>
 				</div>
 			  </div>
+			  	<div class="swiper-pagination process-pagination swiper-pagination-white"></div>
+				<div class="swiper-button-prev swipeColor"></div>
+				<div class="swiper-button-next swipeColor"></div>
 			  
 		   </div>
 		</div>
 				
 	  </div>
-	</main>	
+	</main>
 	<script src="assets/js/homeSwiper.js"></script>	
 </div>
 	

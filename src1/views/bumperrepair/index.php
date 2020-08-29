@@ -3,7 +3,7 @@
 	<script src="assets/js/bumperRepairScroll.js"></script>
 	<script src="assets/js/bumperrepairSwiper.js"></script>
 </head>
-
+<div class="loader" id="loader-1"></div>
 <main>
     <!-- Landing Area -->
     <div class="captionBumperRepairHeader" style="background-color:rgb(0,0,0)">
@@ -13,23 +13,28 @@
           <h6 class="text-white">Not all plastic bumpers need to be replaced; they can often be repaired to factory finish in our cost-efficient, quick and durable process.</h6>
 			<p></p>
 		  <h6 class="text-white">
-			  Urgent Care Bumper Repair’s expertise is in restoring your damaged bumper to as it was new. 
+		  Urgent Care Bumper Repair’s expertise is in restoring your damaged bumper to as it was new. 
+		  If necessary, we can replace your parts whether they require paint to match the vehicle or a part that does not require any paint. 
+		  If your new part does require paint, we have the ability to collect a color sample and color code along with the deposit for the part. 
+		  Once painted, we will bring it to you or you can come to us for installation which takes one to two hours. 
+		  Which gives you the ability to use your vehile while the part is being painted. No need to leave your vehicle at a shop for any reason (NO RENTAL CAR NEEDED).
+			<!--  Urgent Care Bumper Repair’s expertise is in restoring your damaged bumper to as it was new. 
 		      If your part does need to be replaced, I can bring it to you and assemble it, painted! 
 			  Utilizing a state-of-the-art computerized color matching system; 
 			  using only the highest quality paint (PPG Global) and products (3M and Sata) and applying nine years of knowledge and craftsmanship; 
 			  your repair will be seamless and undetectable. 
 			  It doesn’t matter if it’s scratched, scuffed, punctured, peeling, cracked, dented, you-name-it; 
-			  you will get the best repair that you will be able to find out there.
+			  you will get the best repair that you will be able to find out there. -->
 		  </h6>
 		  <p></p>
 		  <h6 class="text-white">
-			  Your satisfaction is most important and any painted part is backed by our warranty for as long as you own the car! 
+			<!--  Your satisfaction is most important and any painted part is backed by our warranty for as long as you own the car! 
 			  Save a ton of time, avoid the headache of being without your car and spend HALF the amount of most body shops! 
-			  Give me a call to restore your car today, right in your driveway!
+			  Give me a call to restore your car today, right in your driveway! -->
 		  </h6>
 		  
 		  <a href="#bumperrepair" class="btn" id="view-work">
-            View Our Services
+            View Our Gallery
           </a>
         </div>
       </div>

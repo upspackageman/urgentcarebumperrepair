@@ -6,9 +6,9 @@
 
 <main>
     <!-- Landing Area -->
-    <div class="captionProcessHeader" style="background-color:rgb(0,0,0)">
-      <div class="process-landing-text">
-        <div class="landing-text-inner">
+    <div class="captionProcessHeader" style="background-color:rgb(147, 154, 163)">
+      <div class="process-landing-text" style="padding-top:12%;">
+        <div class="landing-text-inner mt-5">
           <h1 class="title">Process</h1>
           <h6 class="text-white">The damaged area is designated and sectioned off by masking the rest of the car with tape and paper;</h6>
 		  <h6 class="text-white">The repair starts with reshaping and sanding down the damaged area;</h6>
@@ -31,7 +31,7 @@
 
     <div class="images" id="process">
       <div id="header">
-        <h2>Our Work</h2>
+        <h2>View Gallery</h2>
       </div>
 
       <div class="caption">
