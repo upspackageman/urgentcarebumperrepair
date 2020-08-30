@@ -1,0 +1,341 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+
+.captionInsuranceHeader {
+  height: 600px;
+  text-align: center;
+  vertical-align: text-top;
+  background-image: url(/../images/car/166.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  text-shadow: 8px 8px 6px #000;
+  animation: fill-images 30s;
+  transition: background-image 1s ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+@keyframes fill-images{
+
+	0%{
+		background-image:url("/../assets/images/lexus1/271.jpg");
+
+
+	}
+
+	10%{
+		background-image:url("/../assets/images/car/165.jpg");
+
+
+	}
+
+	20%{
+		background-image:url("/../assets/images/lexus1/267.jpg");
+
+
+	}
+
+	30%{
+		background-image:url("/../assets/images/lexus1/270.jpg");
+
+
+	}
+
+	40%{
+		background-image:url("/../assets/images/porsche/155.jpg");
+	}
+
+	50%{
+		background-image:url("/../assets/images/Car1/089.jpg");
+
+
+	}
+
+	60%{
+		background-image:url("/../assets/images/car/166.jpg");
+
+
+	}
+
+	70%{
+		background-image:url("/../assets/images/car/159.jpg");
+
+
+	}
+
+	80%{
+		background-image:url("/../assets/images/M4/079.jpg");
+
+
+	}
+
+	90%{
+		background-image:url("/../assets/images/M4/080.jpg");
+
+
+	}
+
+
+	100%{
+		background-image:url("/../assets/images/M4/081.jpg");
+	}
+}
+
+@keyframes Animation{
+	0%{
+		background-image:url("/../assets/images/lexus1/271.jpg");
+
+
+	}
+
+	10%{
+		background-image:url("/../assets/images/car/165.jpg");
+
+
+	}
+
+	20%{
+		background-image:url("/../assets/images/lexus1/267.jpg");
+
+
+	}
+
+	30%{
+		background-image:url("/../assets/images/lexus1/270.jpg");
+
+
+	}
+
+	40%{
+		background-image:url("/../assets/images/porsche/155.jpg");
+	}
+
+	50%{
+		background-image:url("/../assets/images/Car1/089.jpg");
+
+
+	}
+
+	60%{
+		background-image:url("/../assets/images/car/166.jpg");
+
+
+	}
+
+	70%{
+		background-image:url("/../assets/images/car/159.jpg");
+
+
+	}
+
+	80%{
+		background-image:url("/../assets/images/M4/079.jpg");
+
+
+	}
+
+	90%{
+		background-image:url("/../assets/images/M4/080.jpg");
+
+
+	}
+
+
+	100%{
+		background-image:url("/../assets/images/M4/081.jpg");
+	}
+
+}
+
+
+
+.process-landing-text
+{
+  padding-top:12%;
+}
+
+.caption {
+  height: 600px;
+  padding: 0px;
+  text-align: center;
+  background-image: linear-gradient(rgba(256, 256, 256, 0.78), rgba(256, 256, 256, 0.78)),url(/../assets/images/home/background.jpg);
+  background-size: cover;
+}
+
+.categoryLogo{
+
+  width:320px;
+  height:80px;
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ padding:0%;
+
+
+}
+
+img {
+  display: block;
+  width: 100%;
+}
+
+.captionBottom {
+  height: 100px;
+  padding: 0px;
+  color: rgb(256, 256, 256);
+  text-align: center;
+  background: #333;
+}
+
+.captionImages {
+  height: 600px;
+}
+
+.caption1{
+  height:100px;
+  color:rgb(256, 256, 256);
+  background: #c3c3c1;
+   background: -webkit-linear-gradient(legacy-direction(to right), #ffffff 0%, #c3c3c1 100%);
+   background: -webkit-gradient(linear, left top, right top, from(#ffffff), to(#c3c3c1));
+   background: -webkit-linear-gradient(left, #ffffff 0%, #c3c3c1 100%);
+   background: -o-linear-gradient(left, #ffffff 0%, #c3c3c1 100%);
+   background: linear-gradient(to right, #ffffff 0%, #c3c3c1 100%);
+
+
+}
+
+.landing-text-inner{
+  padding-top:12%;
+}
+
+.text-white {
+  color: #fff!important;
+}
+
+h1 {
+  font-weight: 500;
+  font-size: 2.9rem;
+  text-transform: uppercase;
+  color:#fff;
+  margin: 0;
+}
+
+h2 {
+  font-weight: 400;
+  font-size: 1.25rem;
+  text-transform: capitalize;
+  color: #fff;
+  margin: 0;
+}
+
+main {
+  max-width: 900px;
+  margin: auto;
+  display: block;
+  transition: opacity 1s ease-in;
+  font-family: 'Roboto Condensed', sans-serif;
+  box-shadow: 30px 0px 40px rgba(0, 0, 0, 0.3),
+    -30px 0px 40px rgba(0, 0, 0, 0.3);
+}
+
+#header {
+  padding: 1.5rem;
+  text-align: center;
+  background: #333;
+  color: #fff;
+}
+
+#header h2 {
+  border-left: dotted 1px #fff;
+  border-right: dotted 1px #fff;
+  display: inline-block;
+  padding-right: 1rem;
+  padding-left: 1rem;
+}
+
+.btn {
+	padding: 0.5rem 2rem;
+	border: 1px #ccc solid;
+	display: inline-block;
+	margin: 2rem 0 0;
+	border-radius: 50px;
+	text-decoration: none;
+	color: #fff;
+	transition: background 500ms ease;
+	box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.37);
+  }
+
+.btn:hover {
+  background: #f4f4f4;
+}
+
+.swiper-button-next, .swiper-button-prev {
+  position: absolute;
+  top: 50%;
+  width: calc(var(--swiper-navigation-size)/ 44 * 27);
+  height: var(--swiper-navigation-size);
+  margin-top: calc(-1 * var(--swiper-navigation-size)/ 2);
+  z-index: 10;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #ae1826;
+  text-shadow: 8px 8px 6px #000;
+}
+
+.swiper-pagination-white {
+  --swiper-pagination-color: #ae1826;
+  text-shadow: 8px 8px 6px #000;
+
+}
+
+@media screen and (max-width: 500px){
+
+  .captionInsuranceHeader {
+    height: 600px;
+    text-align: center;
+    vertical-align: text-top;
+    background-image: url(/../images/car/166.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-shadow: 8px 8px 6px #000;
+    animation: fill-images 30s;
+    transition: background-image 1s ease-in-out;
+    animation-iteration-count: infinite;
+  }
+  .caption {
+    height:350px;
+    padding: 0px;
+    text-align: center; 
+    background-size:cover; 
+    
+   }
+   
+   .caption1{
+     height:70px;
+     color:rgb(256, 256, 256);
+     background: #c3c3c1;
+      background: -webkit-linear-gradient(legacy-direction(to right), #ffffff 0%, #c3c3c1 100%);
+      background: -webkit-gradient(linear, left top, right top, from(#ffffff), to(#c3c3c1));
+      background: -webkit-linear-gradient(left, #ffffff 0%, #c3c3c1 100%);
+      background: -o-linear-gradient(left, #ffffff 0%, #c3c3c1 100%);
+      background: linear-gradient(to right, #ffffff 0%, #c3c3c1 100%);
+     
+     
+   }
+   
+   .captionImages{
+     height:350px;
+   }
+   .categoryLogo{
+	 
+    width:224px; 
+    height:56px;
+    display: block;
+      margin-left: auto;
+      margin-right: auto;
+      padding:0%;
+     
+     
+   }
+
+}

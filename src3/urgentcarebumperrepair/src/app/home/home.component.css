@@ -1,0 +1,360 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+
+h1 {
+  font-weight: 500;
+  font-size: 2.9rem;
+  text-transform: uppercase;
+  color:#fff;
+  margin: 0;
+}
+
+h2 {
+  font-weight: 400;
+  font-size: 1.25rem;
+  text-transform: capitalize;
+  color: #fff;
+  margin: 0;
+}
+
+#header h2 {
+  border-left: dotted 1px #fff;
+  border-right: dotted 1px #fff;
+  display: inline-block;
+  padding-right: 1rem;
+  padding-left: 1rem;
+}
+
+h6 {
+	color: #fff;
+}
+
+img {
+  display: block;
+  width: 100%;
+}
+
+main {
+  max-width: 900px;
+  margin: auto;
+  display: block;
+  font-family: 'Roboto Condensed', sans-serif;
+  transition: opacity 1s ease-in;
+  box-shadow: 30px 0px 40px rgba(0, 0, 0, 0.3),
+    -30px 0px 40px rgba(0, 0, 0, 0.3);
+}
+
+.menu {
+  padding-top: 11%;
+}
+
+.testimonialImage {
+  width: 70px;
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.37);
+}
+
+q{
+	padding:5%;
+}
+
+.text {
+  font-weight: 400;
+  font-size: 1.23rem;
+  /* text-transform: capitalize; */
+  color: #fff;
+  text-shadow: 8px 8px 6px #000;
+  margin: 0;
+}
+
+.author {
+  color: #fff;
+  text-shadow: 8px 8px 6px #000;
+  font-size: 1.2em;
+}
+
+
+img.imageLogo{
+	width:240px;
+	height:54px;
+}
+
+.caption {
+  height:600px;
+  padding: 0px;
+  text-align: center;
+  background-image: linear-gradient(rgba(256, 256, 256, 0.78), rgba(256, 256, 256, 0.78)),url(/../images/Services/background.jpg);
+
+	background-size:cover;
+
+
+ }
+
+ .linkService:hover{
+   color: #c01a2b; 
+ }
+
+ .swiper-button-next, .swiper-button-prev {
+  position: absolute;
+  top: 70%;
+  width: calc(var(--swiper-navigation-size)/ 44 * 27);
+  height: var(--swiper-navigation-size);
+  margin-top: calc(-1 * var(--swiper-navigation-size)/ 2);
+  z-index: 10;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  text-shadow: 8px 8px 6px #000;
+}
+
+
+ .captionHeader {
+
+	height:650px;
+	text-align: center;
+	vertical-align: text-top;
+	background-image:url("/../assets/images/car/166.jpg");
+  background-repeat: no-repeat;background-size: 100% 100%;
+	text-shadow: 8px 8px 6px #000;
+
+
+	animation: fill-images 30s;
+	transition: background-image 1s ease-in-out;
+  animation-iteration-count: infinite;
+
+ }
+
+ #header {
+  padding: 1.5rem;
+  text-align: center;
+  background: #333;
+  color: #fff;
+}
+
+.btnCaptionHeader {
+  border: 1px #ccc solid;
+  width: 80%;
+  border-radius: 12px;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition: background 500ms ease;
+  cursor: pointer;
+  box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.37);
+}
+
+.btnCaptionHeader:hover {
+	background: #f4f4f4;
+	text-decoration: none;
+}
+
+ @keyframes fill-images{
+
+	0%{
+		background-image:url("/../assets/images/lexus1/271.jpg");
+
+
+	}
+
+	10%{
+		background-image:url("/../assets/images/car/165.jpg");
+
+
+	}
+
+	20%{
+		background-image:url("/../assets/images/lexus1/267.jpg");
+
+
+	}
+
+	30%{
+		background-image:url("/../assets/images/lexus1/270.jpg");
+
+
+	}
+
+	40%{
+		background-image:url("/../assets/images/porsche/155.jpg");
+	}
+
+	50%{
+		background-image:url("/../assets/images/Car1/089.jpg");
+
+
+	}
+
+	60%{
+		background-image:url("/../assets/images/car/166.jpg");
+
+
+	}
+
+	70%{
+		background-image:url("/../assets/images/car/159.jpg");
+
+
+	}
+
+	80%{
+		background-image:url("/../assets/images/M4/079.jpg");
+
+
+	}
+
+	90%{
+		background-image:url("/../assets/images/M4/080.jpg");
+
+
+	}
+
+
+	100%{
+		background-image:url("/../assets/images/M4/081.jpg");
+	}
+}
+
+@keyframes Animation{
+	0%{
+		background-image:url("/../assets/images/lexus1/271.jpg");
+
+
+	}
+
+	10%{
+		background-image:url("/../assets/images/car/165.jpg");
+
+
+	}
+
+	20%{
+		background-image:url("/../assets/images/lexus1/267.jpg");
+
+
+	}
+
+	30%{
+		background-image:url("/../assets/images/lexus1/270.jpg");
+
+
+	}
+
+	40%{
+		background-image:url("/../assets/images/porsche/155.jpg");
+	}
+
+	50%{
+		background-image:url("/../assets/images/Car1/089.jpg");
+
+
+	}
+
+	60%{
+		background-image:url("/../assets/images/car/166.jpg");
+
+
+	}
+
+	70%{
+		background-image:url("/../assets/images/car/159.jpg");
+
+
+	}
+
+	80%{
+		background-image:url("/../assets/images/M4/079.jpg");
+
+
+	}
+
+	90%{
+		background-image:url("/../assets/images/M4/080.jpg");
+
+
+	}
+
+
+	100%{
+		background-image:url("/../assets/images/M4/081.jpg");
+	}
+
+}
+
+@media screen and (max-width: 500px){
+
+  .captionHeader {
+
+    height:700px;
+    text-align: center;
+    vertical-align: text-top;
+    background-image:url("/../assets/images/car/166.jpg");
+    background-repeat: no-repeat;background-size: cover;
+    text-shadow: 8px 8px 6px #000;
+  
+  
+    animation: fill-images 30s;
+    transition: background-image 1s ease-in-out;
+    animation-iteration-count: infinite;
+  
+   }
+
+}
+
+@media screen and (max-width: 321px){
+  
+  .captionHeader {
+
+    height:750px;
+    text-align: center;
+    vertical-align: text-top;
+    background-image:url("/../assets/images/car/166.jpg");
+    background-repeat: no-repeat;background-size: cover;
+    text-shadow: 8px 8px 6px #000;
+  
+  
+    animation: fill-images 30s;
+    transition: background-image 1s ease-in-out;
+    animation-iteration-count: infinite;
+  
+   }
+
+   .caption {
+    height:700px !important;
+    padding: 0px;
+    text-align: center;
+    background-image: linear-gradient(rgba(256, 256, 256, 0.78), rgba(256, 256, 256, 0.78)),url(/../images/Services/background.jpg);
+  
+    background-size:cover;
+   }
+   .swiper-button-next, .swiper-button-prev {
+        top:80%;
+   }
+  
+}
+
+
+@media screen and (max-width: 380px){
+  .caption {
+    height:620px !important;
+    padding: 0px;
+    text-align: center;
+    background-image: linear-gradient(rgba(256, 256, 256, 0.78), rgba(256, 256, 256, 0.78)),url(/../images/Services/background.jpg);
+  
+    background-size:cover;
+   }
+
+   .swiper-button-next, .swiper-button-prev {
+    top:80%;
+}
+
+
+
+}
