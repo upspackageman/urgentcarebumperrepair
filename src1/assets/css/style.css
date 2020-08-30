@@ -1,0 +1,1090 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+
+body {
+  font-family: 'Roboto Condensed', sans-serif;
+  margin: 0;
+  background: rgb(151, 36, 37);
+  background-image: linear-gradient(rgba(238, 238, 238, 0.925), rgba(238, 238, 238, 0.925)),url(../images/Services/background.jpg);
+  background-size: cover;
+  height: auto;
+}
+
+
+
+.preload * {
+	-webkit-transition: none !important;
+	-moz-transition: none !important;
+	-ms-transition: none !important;
+	-o-transition: none !important;
+  }
+
+h1 {
+  font-weight: 400;
+  font-size: 2.5rem;
+  text-transform: uppercase;
+  color:fff;
+  margin: 0;
+}
+
+h2 {
+  font-weight: 400;
+  font-size: 1.2rem;
+  text-transform: capitalize;
+  color: fff;
+  margin: 0;
+}
+
+h6 {
+	color: fff;
+}
+
+img {
+  display: block;
+  width: 100%;
+}
+
+main {
+  max-width: 900px;
+  margin: auto;
+  display: block;
+  transition: opacity 1s ease-in;
+  box-shadow: 30px 0px 40px rgba(0, 0, 0, 0.3),
+    -30px 0px 40px rgba(0, 0, 0, 0.3);
+}
+
+q{
+	padding:5%;
+}
+
+.navbar-light .navbar-toggler {
+    color: rgba(33,222,44,0.5);
+    border-color: rgba(0,0,0,0.7);
+}
+
+img.imageLogo{
+	width:240px; 
+	height:54px;
+}
+
+.caption {
+  height:600px;
+  padding: 0px;
+  text-align: center;
+  background-image: linear-gradient(rgba(256, 256, 256, 0.78), rgba(256, 256, 256, 0.78)),url(../images/Services/background.jpg); 
+  
+	background-size:cover; 
+ 
+  
+ }
+ 
+ 
+ .captionHeader {
+	 
+	height:600px;
+	text-align: center;
+	vertical-align: text-top;
+	background-image:url("../images/Import images/2020-04-29/car/166.jpg"); 
+  background-repeat: no-repeat;background-size: 100% 100%;
+	text-shadow: 8px 8px 6px #000;
+	
+  
+	animation: fill-images 30s;
+	transition: background-image 1s ease-in-out;
+  animation-iteration-count: infinite;
+  	 
+ }
+
+ @keyframes fill-images{
+	
+	0%{
+		background-image:url("../images/Import images/2020-04-29/lexus1/271.jpg");
+		
+		
+	}
+	
+	10%{
+		background-image:url("../images/Import images/2020-04-29/car/165.jpg");
+		
+		
+	}
+	
+	20%{
+		background-image:url("../images/Import images/2020-04-29/lexus1/267.jpg");
+		
+		
+	}
+	
+	30%{
+		background-image:url("../images/Import images/2020-04-29/lexus1/270.jpg");
+		
+		
+	}
+	
+	40%{
+		background-image:url("../images/Import images/2020-04-29/porsche/155.jpg");
+	}
+	
+	50%{
+		background-image:url("../images/Import images/2020-04-29/Car1/089.jpg");
+		
+		
+	}
+	
+	60%{
+		background-image:url("../images/Import images/2020-04-29/car/166.jpg");
+		
+		
+	}
+	
+	70%{
+		background-image:url("../images/Import images/2020-04-29/car/159.jpg");
+		
+		
+	}
+	
+	80%{
+		background-image:url("../images/Import images/2020-04-29/M4/079.jpg");
+		
+		
+	}
+	
+	90%{
+		background-image:url("../images/Import images/2020-04-29/M4/080.jpg");
+		
+		
+	}
+	
+	
+	100%{
+		background-image:url("../images/Import images/2020-04-29/M4/081.jpg");
+	}
+}
+
+@-webkit-keyframes Animation{
+	0%{
+		background-image:url("../images/Import images/2020-04-29/lexus1/271.jpg");
+		
+		
+	}
+	
+	10%{
+		background-image:url("../images/Import images/2020-04-29/car/165.jpg");
+		
+		
+	}
+	
+	20%{
+		background-image:url("../images/Import images/2020-04-29/lexus1/267.jpg");
+		
+		
+	}
+	
+	30%{
+		background-image:url("../images/Import images/2020-04-29/lexus1/270.jpg");
+		
+		
+	}
+	
+	40%{
+		background-image:url("../images/Import images/2020-04-29/porsche/155.jpg");
+	}
+	
+	50%{
+		background-image:url("../images/Import images/2020-04-29/Car1/089.jpg");
+		
+		
+	}
+	
+	60%{
+		background-image:url("../images/Import images/2020-04-29/car/166.jpg");
+		
+		
+	}
+	
+	70%{
+		background-image:url("../images/Import images/2020-04-29/car/159.jpg");
+		
+		
+	}
+	
+	80%{
+		background-image:url("../images/Import images/2020-04-29/M4/079.jpg");
+		
+		
+	}
+	
+	90%{
+		background-image:url("../images/Import images/2020-04-29/M4/080.jpg");
+		
+		
+	}
+	
+	
+	100%{
+		background-image:url("../images/Import images/2020-04-29/M4/081.jpg");
+	}
+	
+}
+/*
+@-moz-keyframes Animation {
+	0%{
+		background-image:url("../images/Import images/2020-04-29/lexus1/271.jpg");
+		
+		
+	}
+	
+	10%{
+		background-image:url("../images/Import images/2020-04-29/car/165.jpg");
+		
+		
+	}
+	
+	20%{
+		background-image:url("../images/Import images/2020-04-29/lexus1/267.jpg");
+		
+		
+	}
+	
+	30%{
+		background-image:url("../images/Import images/2020-04-29/lexus1/270.jpg");
+		
+		
+	}
+	
+	40%{
+		background-image:url("../images/Import images/2020-04-29/porsche/155.jpg");
+	}
+	
+	50%{
+		background-image:url("../images/Import images/2020-04-29/Car1/089.jpg");
+		
+		
+	}
+	
+	60%{
+		background-image:url("../images/Import images/2020-04-29/car/166.jpg");
+		
+		
+	}
+	
+	70%{
+		background-image:url("../images/Import images/2020-04-29/car/159.jpg");
+		
+		
+	}
+	
+	80%{
+		background-image:url("../images/Import images/2020-04-29/M4/079.jpg");
+		
+		
+	}
+	
+	90%{
+		background-image:url("../images/Import images/2020-04-29/M4/080.jpg");
+		
+		
+	}
+	
+	
+	100%{
+		background-image:url("../images/Import images/2020-04-29/M4/081.jpg");
+	}
+}
+ */
+ .captionServiceHeader {
+	 
+	height:600px;
+	text-align: center;
+	vertical-align: text-top;
+	 background-image:url("../images/Import images/2020-04-29/car/166.jpg");
+	background-repeat: no-repeat;background-size: 100% 100%;
+	text-shadow: 8px 8px 6px #000;
+	
+   
+	animation: fill-images 30s;
+	transition: background-image 1s ease-in-out;
+	animation-iteration-count: infinite;
+	 
+ }
+
+ .linkService{
+	text-decoration: none; 
+ }
+ 
+ .captionBumperRepairHeader {
+	 
+	height:600px;
+	text-align: center;
+	vertical-align: text-top;
+	 background-image:url("../images/Import images/2020-04-29/car/166.jpg");
+	background-repeat: no-repeat;background-size: 100% 100%;
+	text-shadow: 8px 8px 6px #000;
+	
+   
+	animation: fill-images 30s;
+	transition: background-image 1s ease-in-out;
+	animation-iteration-count: infinite;
+	 
+ }
+
+ .captionBumperreplacement {
+   
+  height:600px;
+  text-align: center;
+  vertical-align: text-top;
+   background-image:url("../images/Import images/2020-04-29/car/166.jpg");
+  background-repeat: no-repeat;background-size: 100% 100%;
+  text-shadow: 8px 8px 6px #000;
+  
+   
+  animation: fill-images 30s;
+  transition: background-image 1s ease-in-out;
+  animation-iteration-count: infinite;
+   
+ }
+ 
+ .captionInsuranceHeader {
+	 
+	height:600px;
+	text-align: center;
+	vertical-align: text-top;
+	 background-image:url("../images/Import images/2020-04-29/car/166.jpg");
+	background-repeat: no-repeat;background-size: 100% 100%;
+	text-shadow: 8px 8px 6px #000;
+	
+   
+	animation: fill-images 30s;
+	transition: background-image 1s ease-in-out;
+	animation-iteration-count: infinite;
+	 
+ }
+ 
+ .captionProcessHeader {
+	 
+	height:675px;
+	text-align: center;
+	vertical-align: text-top;
+	 background-image:url("../images/Import images/2020-04-29/car/166.jpg");
+	background-repeat: no-repeat;background-size: 100% 100%;
+	text-shadow: 8px 8px 6px #000;
+	
+   
+	animation: fill-images 30s;
+	transition: background-image 1s ease-in-out;
+	animation-iteration-count: infinite;
+	 
+ }
+ 
+ .captionImages{
+	 height:600px;
+ }
+ 
+  .captionBottom{
+	 height:100px;
+	 padding: 0px;
+	 color:rgb(256, 256, 256);
+	 text-align: center;
+	 background: #333;
+ }
+ 
+ .caption1{
+	 height:100px;
+	 color:rgb(256, 256, 256);
+	 background: #c3c3c1;
+    background: -webkit-linear-gradient(legacy-direction(to right), #ffffff 0%, #c3c3c1 100%);
+    background: -webkit-gradient(linear, left top, right top, from(#ffffff), to(#c3c3c1));
+    background: -webkit-linear-gradient(left, #ffffff 0%, #c3c3c1 100%);
+    background: -o-linear-gradient(left, #ffffff 0%, #c3c3c1 100%);
+    background: linear-gradient(to right, #ffffff 0%, #c3c3c1 100%);
+	 
+	 
+ }
+ 
+ .categoryLogo{
+	 
+	 width:320px; 
+	 height:80px;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding:0%;
+	 
+	 
+ }
+
+ span.contact{
+	background: -webkit-linear-gradient(left,#ae1826 0%, #4b3026 50%, #7a7f80 100%);
+    -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+	}
+	
+span.contact1{
+	background: -webkit-linear-gradient(left, #ffffff 0%, #ae1826 50%, #ffffff 100% );
+	-webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.fa-facebook-square{
+	background: #3c5a98;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+}
+
+.fa-yelp{
+	background: #d32323;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+ 
+}
+
+.fa-google{
+  background: conic-gradient(from -45deg, #ea4335 110deg, #4285f4 90deg 180deg, #34a853 180deg 270deg, #fbbc05 270deg) 73% 55%/150% 150% no-repeat;
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  -webkit-text-fill-color: transparent;
+}
+
+.fab{
+    font-size: 2em !important; /*size whatever you like*/
+}
+
+.fas{
+	font-size: 1em !important;
+}
+
+
+ 
+ h1.title{
+	 font-size: 50px;
+	
+ }
+ 
+
+.landing {
+  background: #000;
+}
+
+.captionHeaderText {
+  display: flex;
+  flex: 0 1 65vw;
+  height: 50vh;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding-right: 1rem;
+  padding-left: 1rem;
+}
+
+.text{
+  font-weight: 500;
+  font-size: 1.1rem;
+  /* text-transform: capitalize; */
+  color: #fff;
+  text-shadow: 8px 8px 6px #000;
+  margin: 0;
+
+}
+
+.author{
+	color: #fff;
+  text-shadow: 8px 8px 6px #000;
+}
+
+.bumper-landing-text{
+	padding-top:20%;
+}
+
+.bumperreplace-landing-text{
+  padding-top:20%;
+}
+
+.testimonialImage{
+	width:70px; border-radius:50%; 
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.37);
+}
+
+.landing-text h2 {
+  color: #ffffff;
+}
+
+.landing-text-inner{
+	text-shadow: 8px 8px 6px #000;
+}
+
+.menu{
+	padding-top:11%;
+}
+
+
+.service-landing-text-inner{
+	padding-top:19%;
+}
+
+
+
+#landing-image {
+  background: url(https://source.unsplash.com/De8wMYoSSBc);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 50vh;
+  flex: 0 1 60vw;
+  margin: 0;
+}
+
+.btn {
+  padding: 0.5rem 2rem;
+  border: 1px #ccc solid;
+  display: inline-block;
+  margin: 2rem 0 0;
+  border-radius: 50px;
+  text-decoration: none;
+  color: #fff;
+  transition: background 500ms ease;
+  box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.37);
+}
+
+.btnCaptionHeader{
+	
+	border: 1px #ccc solid;
+	width:80%;
+	border-radius: 12px;
+	color: #fff;
+	padding: 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	transition: background 500ms ease;
+	cursor: pointer;
+	box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.37);
+
+}
+
+.btn:hover {
+  background: #f4f4f4;
+}
+
+.btnCaptionHeader:hover {
+	background: #f4f4f4;
+	text-decoration: none;
+}
+
+.swiper-container {
+    
+    height: auto;
+}
+
+.swiper-slide{
+	width:100%;
+}
+
+.swipeColor{
+	color: #ffffff !important;
+	text-shadow: 6px 0.5px 4px rgba(0, 0, 0, 0.5) !important;
+}
+
+#header {
+  padding: 1.5rem;
+  text-align: center;
+  background: #333;
+  color: #fff;
+}
+
+#header h2 {
+  border-left: dotted 1px #fff;
+  border-right: dotted 1px #fff;
+  display: inline-block;
+  padding-right: 1rem;
+  padding-left: 1rem;
+}
+
+#footerDiv{
+	text-align: center;
+}
+
+
+footer {
+  text-align: center;
+  padding: 2rem 1rem;
+  margin: auto;
+  color: #333;
+  align-content: center;
+}
+
+footer h3 {
+  font-size: 3rem;
+  margin-bottom: 0;
+}
+
+#footerPaint{
+	height:40px;
+	width:400px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	
+}
+
+
+
+/* Screen Sizes 500px and Up */
+@media (min-width: 500px) {
+  .landing {
+    display: flex;
+    height: 100%;
+  }
+
+  .landing-text {
+    height: 50vh;
+  }
+
+  .landing-image {
+    height: 100vh;
+  }
+  
+  
+}
+
+
+
+/*------------------------------------------------------------------Navbar--------------------------------------------------------------------------------------*/
+
+
+
+
+/*-------------------------------------------------------Testimonial-------------------------------------------------------------------------------------*/
+
+
+	
+
+
+
+
+
+
+/*---------------------------------------------------------Estimate------------------------------------------------------------------------------*/
+
+.banner5 {
+  font-family: "Montserrat", sans-serif;
+  color: #8d97ad;
+  font-weight: 300;
+	background-size: cover;
+  background-attachment: fixed;
+  background-position: left center;
+}
+
+.banner5 h1,
+.banner5 h2,
+.banner5 h3,
+.banner5 h4,
+.banner5 h5,
+.banner5 h6 {
+  color: #3e4555;
+}
+
+.banner5 .text-box {
+  padding: 10px 15px;
+}
+
+.banner5 .input-icon i {
+  top: 11px;
+  right: 30px;
+}
+
+.banner5 .btn-danger-gradiant {
+  background: #ff4d7e;
+  background: -webkit-linear-gradient(legacy-direction(to right), #ff4d7e 0%, #ff6a5b 100%);
+  background: -webkit-gradient(linear, left top, right top, from(#ff4d7e), to(#ff6a5b));
+  background: -webkit-linear-gradient(left, #ff4d7e 0%, #ff6a5b 100%);
+  background: -o-linear-gradient(left, #ff4d7e 0%, #ff6a5b 100%);
+  background: linear-gradient(to right, #ff4d7e 0%, #ff6a5b 100%);
+}
+
+.banner5 .btn-danger-gradiant:hover {
+  background: #ff6a5b;
+  background: -webkit-linear-gradient(legacy-direction(to right), #ff6a5b 0%, #ff4d7e 100%);
+  background: -webkit-gradient(linear, left top, right top, from(#ff6a5b), to(#ff4d7e));
+  background: -webkit-linear-gradient(left, #ff6a5b 0%, #ff4d7e 100%);
+  background: -o-linear-gradient(left, #ff6a5b 0%, #ff4d7e 100%);
+  background: linear-gradient(to right, #ff6a5b 0%, #ff4d7e 100%);
+}
+
+.banner5 .btn-md {
+    padding: 15px 45px;
+    font-size: 16px;
+}
+
+.est{
+  font-size: 3em !important; /*size whatever you like*/
+  font-weight:50;
+}
+
+
+
+
+
+.op-8{
+	text-shadow: 8px 8px 6px #000;
+}
+/*--------------------------------------------------------------------------------------------About-------------------------------------------------------------------*/
+
+.static-slider10 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 300;
+	padding: 10% 0;
+  background-size: cover;
+  background-position: center center;
+}
+.static-slider10 .title {
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 50px;
+}
+
+.static-slider10 .subtitle {
+    line-height: 24px;
+}
+
+/*---------------------------@media---------------------------------------------------------*/
+
+@media screen and (max-width: 900px) {
+  .static-slider10 .title {
+    font-size: 40px;
+    line-height: 45px;
+  }
+}
+
+.static-slider10 .btn-md {
+    padding: 15px 45px;
+    font-size: 16px;
+}
+
+.static-slider10 .badge {
+	line-height: 21px;
+}
+
+.static-slider10 .badge-inverse {
+	background: #3e4555;
+}
+
+.static-slider10 .op-8 {
+	opacity: 0.8;
+}
+
+.text-uppercase{
+	text-shadow: 8px 8px 6px #000;
+}
+
+/*--------------------------------------------------------------------------------------------Slides-----------------------------------------------------------------*/
+
+
+/* Screen Sizes 700px and Up */
+@media (min-width: 700px) {
+  .btn {
+    padding: 1rem 3rem;
+  }
+}
+
+@media (min-height: 1366px){
+	
+}
+
+
+
+/*---------------------------------------------media---------------------------------------------------------*/
+
+
+
+@media screen and (max-width: 500px){
+
+h1.title{
+	 font-size: 35px;
+	
+ }
+ 
+ #bumper{
+	 padding-top:0%;
+ }
+ 
+  .categoryLogo{
+	 
+	width:224px; 
+	height:56px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding:0%;
+	 
+	 
+ }
+
+ 
+ .captionHeader {
+	 
+	 
+	height:750px;
+	text-align: center; 
+	transition: background-image 1s ease-in-out;
+  background-image:-webkit-linear-gradient(rgba(0, 0, 0, 0.20), rgba(0, 0, 0, 0.20)),url("../images/Import images/2020-04-29/car/166.jpg");
+  background-size: cover;
+	-webkit-animation: fill-images 60s;
+	-moz-animation:fill-images 60s;
+	animation: fill-images 60s;
+	animation-iteration-count: infinite;
+   
+	 
+ }
+
+ .menu {
+    padding-top: 33%;
+}
+ 
+ .captionBumperRepairHeader {
+	 
+	height:700px;
+	text-align: center;
+	vertical-align: text-top;
+	 background-image:url("../images/Import images/2020-04-29/car/166.jpg");
+	background-size: cover;
+	text-shadow: 8px 8px 6px #000;
+	
+   
+	-webkit-animation: fill-images 60s;
+	-moz-animation:fill-images 60s;
+	animation: fill-images 60s;
+	animation-iteration-count: infinite;
+ }
+
+.captionBumperreplacement {
+   
+  height:720px;
+  text-align: center;
+  vertical-align: text-top;
+   background-image:url("../images/Import images/2020-04-29/car/166.jpg");
+  background-repeat: no-repeat;background-size: cover;
+  text-shadow: 8px 8px 6px #000;
+  
+   
+  -webkit-animation: fill-images 60s;
+  -moz-animation:fill-images 60s;
+  animation: fill-images 60s;
+  animation-iteration-count: infinite;
+ }
+
+
+ .captionServiceHeader {
+	 
+	height:400px;
+	text-align: center;
+	vertical-align: text-top;
+	 background-image:url("../images/Import images/2020-04-29/car/166.jpg");
+	background-repeat: no-repeat;background-size: 100% 100%;
+	text-shadow: 8px 8px 6px #000;
+	
+   
+	-webkit-animation: fill-images 60s;
+	-moz-animation:fill-images 60s;
+	animation: fill-images 60s;
+	animation-iteration-count: infinite;
+	 
+ }
+ 
+ .captionInsuranceHeader {
+	 
+	height:600px;
+	text-align: center;
+	vertical-align: text-top;
+	 background-image:url("../images/Import images/2020-04-29/car/166.jpg");
+	background-size: cover;
+	text-shadow: 8px 8px 6px #000;
+	
+   
+	-webkit-animation: fill-images 60s;
+	-moz-animation:fill-images 60s;
+	animation: fill-images 60s;
+	animation-iteration-count: infinite;
+	 
+ }
+ 
+ .captionProcessHeader {
+	 
+	height:850px;
+	text-align: center;
+	vertical-align: text-top;
+	 background-image:url("../images/Import images/2020-04-29/car/166.jpg");
+	background-size: cover;
+	text-shadow: 8px 8px 6px #000;
+	
+   
+	-webkit-animation: fill-images 60s;
+	-moz-animation:fill-images 60s;
+	animation: fill-images 60s;
+	animation-iteration-count: infinite;
+	 
+ }
+ 
+ .bumper-landing-text{
+	padding-top:40%;
+}
+
+.bumperreplace-landing-text{
+  padding-top:40%;
+}
+
+.bumperreplace-landing-text-inner{
+  padding-bottom:64%;
+}
+ 
+/*
+ .process-landing-text{
+	padding-top:20%;
+ }*/
+ 
+ .service-landing-text-inner{
+	padding-bottom:64%;
+}
+ 
+ .caption {
+  height:350px;
+  padding: 0px;
+  text-align: center; 
+  background-size:cover; 
+  
+ }
+ 
+ .caption1{
+	 height:70px;
+	 color:rgb(256, 256, 256);
+	 background: #c3c3c1;
+    background: -webkit-linear-gradient(legacy-direction(to right), #ffffff 0%, #c3c3c1 100%);
+    background: -webkit-gradient(linear, left top, right top, from(#ffffff), to(#c3c3c1));
+    background: -webkit-linear-gradient(left, #ffffff 0%, #c3c3c1 100%);
+    background: -o-linear-gradient(left, #ffffff 0%, #c3c3c1 100%);
+    background: linear-gradient(to right, #ffffff 0%, #c3c3c1 100%);
+	 
+	 
+ }
+ 
+ .captionImages{
+	 height:350px;
+ }
+ 
+ .landing-text {
+  padding-top:75%;
+  padding-left:20%;
+  padding-right: 20%;
+  display: flex;
+  flex: 0 1 65vw;
+  height: 50vh;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding-right: 1rem;
+  padding-left: 1rem;
+}
+
+}
+
+
+
+/*---------------------------Landing Page------------------------------------------------------*/
+
+@import url(//fonts.googleapis.com/css?family=Montserrat:300,400,500);
+.c2a1 {
+  font-family: "Montserrat", sans-serif;
+	color: #8d97ad;
+  font-weight: 300;
+	background-position: center top;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.c2a1 h1, .c2a1 h2, .c2a1 h3, .c2a1 h4, .c2a1 h5, .c2a1 h6 {
+  color: #3e4555;
+}
+
+.c2a1 .op-8 {
+	opacity: 0.8;
+}
+
+.c2a1 .font-weight-medium {
+	font-weight: 500;
+}
+
+.c2a1 .btn-danger-gradiant {
+  background: #ff4d7e;
+  background: -webkit-linear-gradient(legacy-direction(to right), #ff4d7e 0%, #ff6a5b 100%);
+  background: -webkit-gradient(linear, left top, right top, from(#ff4d7e), to(#ff6a5b));
+  background: -webkit-linear-gradient(left, #ff4d7e 0%, #ff6a5b 100%);
+  background: -o-linear-gradient(left, #ff4d7e 0%, #ff6a5b 100%);
+  background: linear-gradient(to right, #ff4d7e 0%, #ff6a5b 100%);
+}
+
+ .c2a1 .btn-danger-gradiant:hover {
+  background: #ff6a5b;
+  background: -webkit-linear-gradient(legacy-direction(to right), #ff6a5b 0%, #ff4d7e 100%);
+  background: -webkit-gradient(linear, left top, right top, from(#ff6a5b), to(#ff4d7e));
+  background: -webkit-linear-gradient(left, #ff6a5b 0%, #ff4d7e 100%);
+  background: -o-linear-gradient(left, #ff6a5b 0%, #ff4d7e 100%);
+  background: linear-gradient(to right, #ff6a5b 0%, #ff4d7e 100%);
+}
+
+.c2a1 .btn-md {
+    padding: 15px 45px;
+    font-size: 16px;
+}
+
+
+ 
+@media screen and(max-width: 320x){
+
+
+
+}
+
+@media screen and(max-width: 376px ){
+	
+	.captionServiceHeader {
+	 
+	height:500px;
+	text-align: center;
+	vertical-align: text-top;
+	 background-image:url("../images/Import images/2020-04-29/car/166.jpg");
+	background-repeat: no-repeat;background-size: cover;
+	text-shadow: 8px 8px 6px #000;
+	
+   
+	-webkit-animation: fill-images 60s;
+	-moz-animation:fill-images 60s;
+	animation: fill-images 60s;
+	animation-iteration-count: infinite;
+	 
+ }
+	
+	
+}
+
+@media (max-width: 400px ){
+
+	img.imageLogo{
+		width:193px; 
+		height:44px;
+	}
+
+	.bumper-landing-text{
+		padding-top:30%;
+	}
+}
+
+
+
+
+
+	
