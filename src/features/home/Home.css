@@ -1,0 +1,472 @@
+@-webkit-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@-webkit-keyframes fadeOut {
+  100% {
+    opacity: 1;
+  }
+  0% {
+    opacity: 0;
+  }
+}
+
+@keyframes fadeOut {
+  100% {
+    opacity: 1;
+  }
+  0% {
+    opacity: 0;
+  }
+}
+
+@keyframes fill-images {
+  0% {
+    opacity: 1;
+    background-image: url("/public/assets/images/lexus1 - Copy/271.jpg"),
+      url("/public/assets/images/Car1 - Copy/089.jpg");
+    background-position: 0% 100%;
+    animation-name: fadeIn;
+    animation-name: fadeOut;
+    -webkit-animation-name: fadeIn;
+    -webkit-animation-name: fadeOut;
+  }
+
+  10% {
+    opacity: 1;
+    background-image: url("/public/assets/images/Car1 - Copy/089.jpg"),
+      url("/public/assets/images/lexus1 - Copy/267.jpg");
+    animation-name: fadeIn;
+    animation-name: fadeOut;
+    -webkit-animation-name: fadeIn;
+    -webkit-animation-name: fadeOut;
+  }
+
+  20% {
+    opacity: 1;
+    background-image: url("/public/assets/images/lexus1 - Copy/267.jpg"),
+      url("/public/assets/images/lexus1 - Copy/270.jpg");
+    animation-name: fadeIn;
+    animation-name: fadeOut;
+    -webkit-animation-name: fadeIn;
+    -webkit-animation-name: fadeOut;
+  }
+
+  30% {
+    opacity: 1;
+    background-image: url("/public/assets/images/lexus1 - Copy/270.jpg"),
+      url("/public/assets/images/porsche - Copy/155.jpg");
+    animation-name: fadeIn;
+    animation-name: fadeOut;
+    -webkit-animation-name: fadeIn;
+    -webkit-animation-name: fadeOut;
+  }
+  40% {
+    opacity: 1;
+    background-image: url("/public/assets/images/porsche - Copy/155.jpg"),
+      url("/public/assets/images/process/11.jpg");
+    animation-name: fadeIn;
+    animation-name: fadeOut;
+    -webkit-animation-name: fadeIn;
+    -webkit-animation-name: fadeOut;
+  }
+  50% {
+    opacity: 1;
+    background-image: url("/public/assets/images/process/11.jpg"),
+      ("/public/assets/images/Car1 - Copy/089.jpg");
+    animation-name: fadeIn;
+    animation-name: fadeOut;
+    -webkit-animation-name: fadeIn;
+    -webkit-animation-name: fadeOut;
+  }
+  60% {
+    opacity: 1;
+    background-image: url("/public/assets/images/Car1 - Copy/089.jpg"),
+      url("/public/assets/images/97_carrera/44.jpg");
+    background-position: 100% 0%;
+    animation-name: fadeIn;
+    animation-name: fadeOut;
+    -webkit-animation-name: fadeIn;
+    -webkit-animation-name: fadeOut;
+  }
+  70% {
+    opacity: 1;
+    background-image: url("/public/assets/images/97_carrera/44.jpg"),
+      url("/public/assets/images/97_carrera/45.jpg");
+    animation-name: fadeIn;
+    animation-name: fadeOut;
+    -webkit-animation-name: fadeIn;
+    -webkit-animation-name: fadeOut;
+  }
+  75% {
+    opacity: 1;
+    background-image: url("/public/assets/images/97_carrera/45.jpg"),
+      url("/public/assets/images/M4 - Copy/079.jpg");
+    animation-name: fadeIn;
+    animation-name: fadeOut;
+    -webkit-animation-name: fadeIn;
+    -webkit-animation-name: fadeOut;
+  }
+  80% {
+    opacity: 1;
+    background-image: url("/public/assets/images/M4 - Copy/079.jpg"),
+      url("/public/assets/images/M4 - Copy/080.jpg");
+    animation-name: fadeIn;
+    animation-name: fadeOut;
+    -webkit-animation-name: fadeIn;
+    -webkit-animation-name: fadeOut;
+  }
+  90% {
+    opacity: 1;
+    background-image: url("/public/assets/images/M4 - Copy/080.jpg"),
+      url("/public/assets/images/M4 - Copy/082.jpg");
+    animation-name: fadeIn;
+    animation-name: fadeOut;
+    -webkit-animation-name: fadeIn;
+    -webkit-animation-name: fadeOut;
+  }
+  100% {
+    opacity: 1;
+    background-image: url("/public/assets/images/M4 - Copy/082.jpg");
+    animation-name: fadeIn;
+    animation-name: fadeOut;
+    -webkit-animation-name: fadeIn;
+    -webkit-animation-name: fadeOut;
+  }
+}
+
+.swiper-pagination-bullet{
+  width:15px !important;
+  height:15px !important;
+  background:#c01a2b !important;
+
+}
+
+.captionHeader {
+  height: 1150px;
+  text-align: center;
+  color:#fff;
+  background-color: #000;
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-shadow: 2px 2px 3.5px #000;
+  -webkit-transition: opacity 1s ease-in-out;
+  -moz-transition: opacity 1s ease-in-out;
+  -o-transition: opacity 1s ease-in-out;
+  animation-iteration-count: infinite;
+  animation: gradient 30s;
+  animation: fill-images 30s;
+  transition: background-image 1s ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.captionServiceHomeHeader {
+  height: 600px;
+  text-align: center;
+  vertical-align: text-top;
+  background-image: url("/public/assets/images/car/166.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  text-shadow: 2px 2px 3px #000;
+  animation: fill-images 30s;
+  -webkit-animation: fill-images 30s;
+  -moz-animation: fill-images 30s;
+  transition: background-image 1s ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.bumperrepair-home-caption {
+  height: 455px;
+  text-shadow: 2px 2px 3px #000;
+  text-align: center;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    url("/public/assets/images/Car1/098.jpg");
+  background-size: 100% 100%;
+}
+.bumperreplacement-home-caption {
+  height: 470px;
+  text-shadow: 2px 2px 3px #000;
+  text-align: center;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    url("/public/assets/images/bumper/2.jpg");
+  background-size: 180% 100%;
+  background-position: center;
+}
+
+.leasereturn-home-caption {
+  height: 455px;
+  text-shadow: 2px 2px 3px #000;
+  text-align: center;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    url("/public/assets/images/lexus1/270.jpg");
+  background-size: 140% 100%;
+}
+
+.insuranceclaims-home-caption {
+  height: 455px;
+  text-shadow: 2px 2px 3px #000;
+  text-align: center;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    url("/public/assets/images/car/165.jpg");
+  background-size: 120% 100%;
+}
+
+.process-home-caption {
+  height: 455px;
+  text-shadow: 2px 2px 3px #000;
+  text-align: center;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    url("/public/assets/images/process/10.jpg");
+  background-size: 140% 100%;
+}
+
+.services .btn-service {
+  padding: 0.5rem 2rem;
+  background: rgba(192, 26, 43, 0.20);
+  text-shadow: 2px 2px 3px #000;
+  border: 1px #ccc solid;
+  display: inline-block;
+  margin: 2rem 0 0;
+  border-radius: 50px;
+  text-decoration: none;
+  color: #fff;
+  transition: background 500ms ease;
+  box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.37);
+}
+
+.services .btn-service:hover {
+  background: #f4f4f4;
+  color: #c01a2b;
+}
+
+
+.services .contain{
+  box-shadow: 30px 0px 40px rgb(0 0 0 / 50%), -30px 0px 40px rgb(0 0 0 / 50%);
+}
+
+.captionHeader .alt {
+  background: rgba(192, 26, 43, 0.4) !important;
+  border: 1px #fff solid !important;
+  color: #fff !important;
+  text-shadow: 2px 2px 3.5px #000;
+}
+
+.captionHeader .alt:hover {
+  border: 1px #c01a2b solid !important;
+  background: rgba(249, 249, 249, 1) !important;
+  color: #fff !important;
+}
+
+.captionHeader .btn {
+  border: 1px #ccc solid;
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 12px;
+  color: #fff;
+  text-align: center;
+  font-weight: 400 !important;
+  font-size: 20px !important;
+  transition: background 500ms ease;
+  box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.37);
+}
+
+.captionHeader .btn:hover {
+  background: #f4f4f4;
+  border: 1px #c01a2b solid !important;
+  color: red !important;
+}
+
+.overlay {
+  height: 1150px;
+  background: rgba(0, 0, 0, 0.2);
+}
+
+.testimonial-overlay {
+  height: 620px;
+  background: rgba(0, 0, 0, 0.2);
+}
+
+.swiper-slide-shadow-right {
+  background-image: linear-gradient(
+    to right,
+    rgba(0, 0, 0, 0),
+    rgba(0, 0, 0, 0)
+  ) !important;
+  opacity: 0;
+}
+
+.swiper-slide-shadow-left {
+  background-image: linear-gradient(
+    to right,
+    rgba(0, 0, 0, 0),
+    rgba(0, 0, 0, 0)
+  ) !important;
+  opacity: 0;
+}
+
+.testimonial {
+  height: 620px;
+  background-image: url("/public/assets/images/home/background.jpg");
+  background-size: cover;
+}
+
+.swiper {
+  width: 100%;
+  height: 500px;
+  background: none;
+}
+
+q {
+  padding: 5%;
+}
+
+.text {
+  position: relative;
+  font-weight: 400;
+  font-size: 1.23rem;
+  /* text-transform: capitalize; */
+  color: #fff;
+  text-shadow: 2px 2px 2.45px #000;
+}
+
+.author {
+  color: #fff;
+  text-shadow: 2px 2px 2.45px #000;
+  font-size: 1.2em;
+  text-align: center;
+}
+
+.testimonialImage {
+  width: 70px;
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 5px 5px 4px rgba(0, 0, 0, 0.5);
+}
+
+.swiper-slide {
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  z-index: 2 !important;
+  width: 300px;
+  height: 300px;
+}
+
+.swiper-button-prev {
+  font-weight: 500 !important;
+  color: #c01a2b !important;
+}
+
+.swiper-button-next {
+  font-weight: 500 !important;
+  color: #c01a2b !important;
+}
+
+@media screen and (max-width: 950px) {
+  .captionHeader {
+    text-align: center;
+    height: 1250px;
+    vertical-align: text-top;
+    background-image: url("/public/assets/images/car/166.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-shadow: 8px 8px 6px #000;
+  }
+
+  .overlay {
+    height: 1250px;
+  }
+
+  .captionServiceHomeHeader {
+    height: 350px;
+  }
+
+  .bumperrepair-home-caption {
+    height: 375px;
+    text-align: center;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+      url(/public/assets/images/car3/190.jpg);
+    background-size: cover;
+  }
+
+  .swiper {
+    width: 100%;
+    height: 620px;
+  }
+
+  .testimonial {
+    height: 680px;
+  }
+
+  .testimonial-overlay {
+    height: 680px;
+    background: rgba(0, 0, 0, 0.2);
+  }
+
+  .swiper-pagination-bullet {
+    position: relative;
+  }
+
+  .swiper-button-prev {
+    top: 500px !important;
+    color: #c01a2b !important;
+  }
+
+  .swiper-button-next {
+    top: 500px !important;
+    color: #c01a2b !important;
+  }
+}
+
+
+@media screen and (max-width: 450px) {
+ 
+
+  .captionHeader {
+    height: 1240px;
+  }
+
+  .overlay {
+    height: 1240px;
+    background: rgba(0, 0, 0, 0.2);
+  }
+
+  .testimonial-overlay {
+    height:770px;
+  }
+
+  .testimonial {
+    height: 770px;
+  }
+
+  .swiper{
+    height: 730px;
+  }
+
+  .swiper-button-prev {
+    top: 570px !important;
+    color: #c01a2b !important;
+  }
+
+  .swiper-button-next {
+    top: 570px !important;
+    color: #c01a2b !important;
+  }
+ 
+}

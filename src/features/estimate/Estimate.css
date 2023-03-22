@@ -1,0 +1,222 @@
+.estimate-page{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.7)),url('/public/assets/images/about3.jpg');  background-size:cover;
+}
+
+.btn-service {
+    text-shadow: 2px 2px 2.45px #000;
+    border: 1px #ccc solid !important;
+    background:linear-gradient(rgba(100, 31, 31, 0.4), rgba(100, 31, 31, 0.4));
+    transition: background 500ms ease;
+    box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.37);
+  }
+
+  .css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input{
+  color:#fff !important;
+}
+
+.css-hfutr2-MuiSvgIcon-root-MuiSelect-icon {
+  color: #c01a2b !important;
+}
+
+.btn-service:hover {
+  background: #f4f4f4 !important;
+  color: #c01a2b !important;
+}
+
+
+.css-1d3z3hw-MuiOutlinedInput-notchedOutline{
+  border-color: #c01a2b !important;
+ 
+}
+
+.css-1t1j96h-MuiPaper-root-MuiDialog-paper {
+  border-color: #c01a2b !important;
+  border-width: 1px !important;
+  border-style:ridge;
+  border-radius: 7px !important;
+
+}
+
+.css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input{
+ color:#fff !important;
+}
+
+.css-1sumxir-MuiFormLabel-root-MuiInputLabel-root{
+  color: #c01a2b !important;
+}
+
+
+.css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root {
+ color: rgb(255, 255, 255) !important;
+}
+
+.css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root {
+  background-color: rgba(255, 255, 255,.1) !important;
+}
+
+.estimate-btn-service {
+  padding: 0.5rem 2rem;
+  width:70% !important;
+  left: 15%;
+  margin-top:5% !important;
+  padding: 0.5rem 2rem;
+  background: rgba(192, 26, 43, 0.20) !important;
+  border: 1px #ccc solid !important;;
+  display: inline-block;
+  margin: 2rem 0 0;
+  border-radius: 50px;
+  text-decoration: none;
+  color: #fff;
+  transition: background 500ms ease;
+  box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.37);
+}
+
+.estimate-btn-service:hover {
+  background: #f4f4f4 !important;
+  color: #c01a2b !important;
+}
+
+.estimate-image{
+  width: 60%;
+  display: inline;
+  position: relative;
+  left: 20% !important;
+  border-style: inset; 
+  border-radius: 3px; 
+  border-width: 20px; 
+  border-color:rgba(98, 83, 70, 0.32);
+}
+
+.box-image{
+  display: inline;
+  position: relative;
+  left: 50% !important;
+
+  
+  
+}
+
+.drag-drop{
+  position: relative;
+  color: #fff !important;
+  border: 1px #c01a2b solid !important;
+  border-radius: 4px;
+  padding:3.5%;
+  margin: 0% 5% 0% 5%;
+  top:-290px;
+  z-index: 0 !important;
+}
+
+.box-line-img{
+  border: 1px #c01a2b solid !important;
+  border-radius: 4px;
+  background-color: rgb(255, 253, 253, .1);
+  background-size: cover;
+}
+
+.file-upload-input {
+ 
+  position: relative;
+  margin: 0;
+  padding: 0;
+ 
+  width: 100%;
+  height: 450px;
+  outline: none;
+  opacity: 1;
+  cursor: pointer;
+  z-index: 1 !important;
+}
+
+::-webkit-file-upload-button {
+  display: none;
+}
+
+.thanks-image{
+  position: relative;
+  border: 1px #c01a2b solid;
+  margin-top:5%;
+  width:60%;
+  left: 20%;
+}
+
+.contact-btn-service{
+  border-radius: 15px !important;
+  background: rgba(192, 26, 43, 0.0) !important;
+  border: 1px rgba(192, 26, 43, 1) solid !important;
+}
+
+.contact-dialog-service{
+  border: 1px rgba(192, 26, 43, 1) solid !important;
+}
+
+.contact-btn-service .css-uxhi2t-MuiSvgIcon-root {
+  fill:rgba(192, 26, 43, .6) !important;
+}
+
+.contact-btn-service:hover .css-uxhi2t-MuiSvgIcon-root {
+  fill:rgba(192, 26, 43, 1) !important;
+}
+
+.contact-btn-service:hover{
+  background: rgba(192, 26, 43, 0.25) !important;
+  color: #c01a2b !important;
+}
+
+@media (max-width:500px) {
+
+  .contact-btn-service .MuiSvgIcon-fontSizeMedium {
+    fill:rgba(192, 26, 43, .6) !important;
+  }
+  .estimate-image{
+    width: 90%;
+    border-width: 15px; 
+    left: 5% !important;
+    
+  }
+
+  .drag-drop{
+    position: relative;
+    border: 1px #c01a2b solid !important;
+    border-radius: 4px;
+    padding:3.5%;
+    margin: 0% 15% 0% 15%;
+    top:-270px;
+  }
+  
+  .mobile-file-upload-input{
+    border: 1px #c01a2b solid !important;
+    border-radius: 4px;
+    background-color: rgb(255, 253, 253, .1);
+  }
+  
+  .file-upload-input {
+   
+    border-radius: 4px;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    width: 95%;
+    height: 325px;
+    outline: none;
+    opacity: 1;
+    cursor: pointer;
+  }
+
+  .drag-drop .css-i4bv87-MuiSvgIcon-root{
+    color: rgb(255, 255, 255) !important;
+    width: 5em !important;
+    height: 5em !important;
+    
+  }
+
+  .thanks-logo{
+    width: 95%;
+  }
+
+
+  .css-1t1j96h-MuiPaper-root-MuiDialog-paper {
+   width: 100%;
+  
+  }
+}
