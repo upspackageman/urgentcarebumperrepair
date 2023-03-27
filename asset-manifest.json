@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/urgentcarebumperrepair/static/css/main.d7be94be.css",
-    "main.js": "/urgentcarebumperrepair/static/js/main.93a206e9.js",
+    "main.css": "/urgentcarebumperrepair/static/css/main.2bb50160.css",
+    "main.js": "/urgentcarebumperrepair/static/js/main.6a78afb8.js",
     "static/js/787.e51d164d.chunk.js": "/urgentcarebumperrepair/static/js/787.e51d164d.chunk.js",
     "static/media/271.jpg": "/urgentcarebumperrepair/static/media/271.4da2732b8b75dd647050.jpg",
     "static/media/089.jpg": "/urgentcarebumperrepair/static/media/089.f51beb3b8d3b10a552f6.jpg",
@@ -23,12 +23,12 @@
     "static/media/10.jpg": "/urgentcarebumperrepair/static/media/10.0b67cdbcee6a11d12e0d.jpg",
     "static/media/45.jpg": "/urgentcarebumperrepair/static/media/45.92581714079ec6c828ad.jpg",
     "index.html": "/urgentcarebumperrepair/index.html",
-    "main.d7be94be.css.map": "/urgentcarebumperrepair/static/css/main.d7be94be.css.map",
-    "main.93a206e9.js.map": "/urgentcarebumperrepair/static/js/main.93a206e9.js.map",
+    "main.2bb50160.css.map": "/urgentcarebumperrepair/static/css/main.2bb50160.css.map",
+    "main.6a78afb8.js.map": "/urgentcarebumperrepair/static/js/main.6a78afb8.js.map",
     "787.e51d164d.chunk.js.map": "/urgentcarebumperrepair/static/js/787.e51d164d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d7be94be.css",
-    "static/js/main.93a206e9.js"
+    "static/css/main.2bb50160.css",
+    "static/js/main.6a78afb8.js"
   ]
 }
